@@ -1,0 +1,75 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+== Welcome to Shaofeng Zou's Homepage
+
+~~~
+{}{img_left}{zou.jpg}{alt text}{175}{}{http://www.acsu.buffalo.edu/~szou3/}
+- Shaofeng Zou (邹韶峰)
+- Assistant Professor\n
+- [http://engineering.buffalo.edu/ee.html Department of Electrical Engineering] \n
+- [http://www.buffalo.edu/ University at Buffalo, The State University of New York]\n
+- Office: 228 Davis Hall \n
+- Phone: (716) 645-1053 \n
+- Email: szou3 at buffalo.edu 
+~~~
+
+== Announcement
+- Together with Prof. Yi Zhou and Prof. Jie Ding, I am organizing the "[https://sites.google.com/view/ieeebigdata-rl/home Workshop on Scalable Reinforcement Learning with Big Data: Theory and Applications]" at IEEE BigData 2021! Submit your paper [https://wi-lab.com/cyberchair/2021/bigdata21/scripts/ws_submit.php?subarea=S here]!
+- [http://www.acsu.buffalo.edu/~guan/wirelessday/2021.html The 3rd Buffalo Day for 5G and Wireless Internet of Things], co-organized by Dr. Zou, will be held in Nov. 19 2021.
+
+==  Research 
+My research interests include statistical signal processing, machine learning and information theory.
+
+Current research projects include:
+- Reinforcement learning 
+- Security and privacy
+- Event detection in networks
+- Quickest change detection and sequential analysis
+
+== About me
+I am an Assistant Professor with the Department of Electrical Engineering at [http://www.buffalo.edu/ University at Buffalo, The State University of New York]. I was a postdoc at [https://csl.illinois.edu/ Coordinated Science Lab], [https://illinois.edu/ University of Illinois at Urbana-Champaign] from Jul 2016 to Aug 2018, supervised by Prof. Venugopal V. Veeravalli. I completed the Ph.D. degree in [http://eng-cs.syr.edu/our-departments/electrical-engineering-and-computer-science/ Electrical and Computer Engineering] from [https://www.syracuse.edu/ Syracuse University] in May, 2016, supervised by Prof. Yingbin Liang. I received the B. E. degree (with honors) from [http://en.sjtu.edu.cn/ Shanghai Jiao Tong University] in 2011.
+
+
+
+
+== To Prospective Students
+- PhD students: Students with strong backgrounds in machine learning, signal processing, communication networks, mathematics, and statistics are encouraged to email me about potential positions in our group. 
+Please include your resume, undergraduate/graduate transcripts. 
+- Research Opportunities for Undergraduate/Master Students: Both master and undergraduate students at the University at Buffalo are encouraged to discuss with me if you are interested in my research.
+- Visiting scholars/students are also highly welcome.
+
+
+== News! 
+- Aug 2021, I received grant as PI @ UB in collaboration with Dr. Ruizhi Zhang (UNL): "CCSS: Collaborative Research: Quickest Threat Detection in Adversarial Sensor Networks". Thanks to NSF!
+- July 2021, Dr. Yingbin Liang from OSU, Dr. Yi Zhou from U. Utah and myself delivered the tutorial on “Recent Advances in Reinforcement Learning Theory” at the 2021 IEEE International Symposium on Information Theory (IEEE ISIT 2021).
+- May 2021, I received grant as PI @ UB in collaboration with Dr. Veeravalli (Leading PI, UIUC) and Dr. Atia (PI, UCF): "Collaborative Research: CIF: Medium: Emerging Directions in Robust Learning and Inference". Thanks to NSF!
+- April 2021, three papers have been accepted by *IEEE ISIT 2021*, and one paper has been accepted by *IEEE ECCE 2021*!
+- April 2021, our paper, "Sequential (Quickest) Change Detection: Classical Results and New Directions", has been accepted for publication on *IEEE Journal on Selected Areas in Information Theory*!
+- Jan 2021, our paper, "Greedy-GQ with Variance Reduction: Finite-time Analysis and Improved Complexity", has been accepted by *ICLR 2021 (acceptance rate: 28.7%)*!
+- Dec 2020, our paper, "Learning Graph Neural Networks with Approximate Gradient Descent", has been accepted by *AAAI 2021 (acceptance rate: 21%)*!
+- Nov 2002, [https://buffalowirelessday.wixsite.com/2019 The 2nd Buffalo Day for 5G and Wireless Internet of Things], co-organized by Dr. Zou, is held with a great success!
+- Sep 2020, our paper, "Variance-Reduced Off-Policy TDC Learning: Non-Asymptotic Convergence Analysis", has been accepted by *NeurIPS 2020* *(acceptance rate: 20.1%)*! 
+- June 2020, I received grant as sole PI from NSF: "CIF: Small: Reinforcement Learning with Function Approximation: Convergent Algorithms and Finite-sample Analysis". Thanks to NSF!
+- May 2020, Our paper, "Finite-sample Analysis of Greedy-GQ with Linear Function Approximation under Markovian Noise" has been accepted by *Conference on Uncertainty in Artificial Intelligence (UAI) 2020* *(acceptance rate: 27.6%)*! Congrats to Yue Wang!
+- April 2020, Our paper, "Tightening Mutual Information Based Bounds on Generalization Error" has been accepted for publication on *IEEE Journal on Selected Areas in Information Theory*!
+- Mar 2020, Our paper, "A Game-Theoretic Approach to Sequential Detection in Adversarial Environments" has been accepted by *IEEE ISIT 2020*!
+- Mar 2020, One journal paper, "Sequential algorithms for moving anomaly detection in networks" has been accepted for publication on *Sequential Analysis*!
+- Feb 2020, I received NSF CRII award "CRII: CIF: Dynamic Network Event Detection with Time-Series Data". Thanks to NSF!
+- Feb 2020, I gave a presentation "Finite-Sample Analysis for SARSA with Linear Function Approximation" at Information Theory and Applications Workshop - ITA, San Diego, USA.
+- Jan 2020, Zhongchang's paper "Quickest Change Detection in Anonymous Heterogeneous Sensor Networks", has been accepted by *IEEE ICASSP 2020*!
+- Nov 2019, Dr. Zou has been elected to the IEEE Signal Processing for Communications and Networking (SPS SPCOM) Technical Committee (TC) for a 3-year term, effective January 1, 2020.
+- Nov 2019, One paper, "Information-Theoretic Understanding of Population Risk Improvement with Model Compression" has been accepted by *AAAI 2020* *(acceptance rate: 20.6%)*
+!
+- Nov 2019, [https://buffalowirelessday.wixsite.com/2019 The 1st Buffalo Day for 5G and Wireless Internet of Things], co-organized by Dr. Zou, is held with a great success!
+- Oct 2019, One paper, "Quickest Detection of Dynamic Events in Networks", has been accepted for publication on *IEEE Transactions on Information Theory*!
+- Sep 2019, Two papers, "Finite-Sample Analysis for SARSA with Linear Function Approximation" and "Two Time-scale Off-Policy TD Learning: Non-asymptotic Analysis over Markovian Samples", have been accepted by *NeurIPS 2019* *(acceptance rate: 21%)*! See you in Vancouver!
+- Mar 2019, Two papers, "Tightening Mutual Information Based Bounds on Generalization Error" and "Quickest Detection of a Moving Target in a Sensor Network", have been accepted by *IEEE ISIT 2019*!
+- Feb 2019, One paper, "[https://arxiv.org/abs/1701.06084 Linear-Complexity Exponentially-Consistent Tests for Universal Outlying Sequence Detection]", has been accepted for publication on *IEEE Transactions on Signal Processing*!
+- Jan. 2019, One paper, "Distributed Quickest Detection of Significant Events in Networks", has been accepted by *IEEE ICASSP 2019*!
+- Oct. 2018, One paper, "[https://arxiv.org/abs/1711.02186 Quickest Change Detection under Transient Dynamics: Theory and Asymptotic Analysis]", has been accepted for publication on *IEEE Transactions on Information Theory*!
+
+
+
+
+
+
+
