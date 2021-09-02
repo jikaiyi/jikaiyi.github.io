@@ -1,99 +1,26 @@
 # jemdoc: menu{MENU}{pub.html}, nofooter  
-= Publications
-
-
-== Book Chapters
-. [https://www.taylorfrancis.com/books/e/9781498773461/chapters/10.1201%2F9781351061223-4 Data-Driven Approaches for Detecting and Identifying Anomalous Data Streams]\n *S. Zou*, Y. Liang, H. V. Poor, X. Shi\n  Signal Processing and Machine Learning for Biomedical Big Data, edited by Ervin Sejdic and Tiago Falk, CRC Press, 2018.
-. A Broadcast Approach to Fading Channels under Secrecy Constraints \n *S. Zou*, Y. Liang, L. Lai, H. V. Poor, S. Shamai\n to appear in Information-Theoretic Perspectives on 5G Systems and Beyond, Edited by Ivana Maric, Osvaldo Simeone, Shlomo Shamai (Shitz), Cambridge University Press, 2017.
-
-== Journal Publications and Preprints
-. Population Risk Improvement with Model Compression: An Information-Theoretic Approach\n Y. Bu W. Gao S. Zou and V. V. Veeravalli\n submitted to Aug. Entropy 2021.
-. Sequential Moving Anomaly Detection with Anonymized Samples\n Z. Sun, S. Zou\n submitted to IEEE Transactions on Information Theory, Dec. 2020
-. Robust Sequential Hypothesis Testing in Adversarial Environments\n S. Cao, R. Zhang, S. Zou\n submitted to INFORMS Journal on Data Science, 2021
-. Quickest Change Detection in Anonymous Heterogeneous Sensor Networks\n Z. Sun, S. Zou, R. Zhang, Q. Li\n submitted to IEEE Transactions on Signal Processing, Nov. 2020
-. [https://arxiv.org/abs/2104.04186 Sequential Change Detection: Classical Results and New Directions] \n L. Xie, S. Zou, Y. Xie, V. V. Veeravalli\n IEEE Journal on Selected Areas in Information Theory, 2021.
-. [journal/JSAIT_gen_bound.pdf Tightening Mutual Information Based Bounds on Generalization Error]\n Y. Bu, *S. Zou*, V. V. Veeravalli\n IEEE Journal on Selected Areas in Information Theory, May 2020.
-. [journal/dynamicanomalydetection.pdf Sequential Algorithms for Moving Anomaly Detection in Networks]\n G. Rovatsos, *S. Zou*, V. V. Veeravalli\n Sequential Analysis, 2020.
-. [journal/QCDnetworkeventdetection.pdf Quickest Detection of Dynamic Events in Networks]\n *S. Zou*, V. V. Veeravalli, J. Li, D. Towsley\n IEEE Transactions on Information Theory, 2020.
-. [https://arxiv.org/abs/1701.06084 Linear-Complexity Exponentially-Consistent Tests for Universal Outlying Sequence Detection]\n Y. Bu, *S. Zou*, V. V. Veeravalli\n IEEE Transactions on Signal Processing, vol. 67, no. 8, pp. 2115-2128, April 15, 2019.
-. [https://arxiv.org/abs/1711.02186 Quickest Change Detection under Transient Dynamics: Theory and Asymptotic Analysis]\n *S. Zou*, G. Fellouris, V. V. Veeravalli\n IEEE Transactions on Information Theory, vol. 65, no. 3, pp. 1397-1412, March 2019.
-. [journal/KL2018IT.pdf Estimation of KL Divergence: Optimal Minimax Rate]\n Y. Bu\*, *S. Zou\**, Y. Liang, V. V. Veeravalli\n IEEE Transactions on Information Theory, vol. 64, no. 4, pp. 2648-2674, April 2018. *(Bu and Zou contributed equally)*.
-. [journal/SecrecyOutsideBoundedRange.pdf Degraded Broadcast Channel with Secrecy Outside a Bounded Range]\n *S. Zou*, Y. Liang, L. Lai, H. V. Poor, S. Shamai (Shitz)\n IEEE Transactions on Information Theory, vol. 64, no. 3, pp. 2104-2120, Mar. 2018.
-. [journal/sequence.pdf Nonparametric Detection of Anomalous Data Streams]\n *S. Zou*, Y. Liang, H. V. Poor, X. Shi\n IEEE Transactions on Signal Processing, vol. 65, no. 21, pp. 5785-5797, Nov. 2017.
-. [journal/IntervalDetection2017publish.pdf Nonparametric Detection of Geometric Structures over Networks]\n *S. Zou*, Y. Liang, H. V. Poor\n IEEE Transactions on Signal Processing, vol. 65, no. 19, pp. 5034-5046, Oct. 2017.
-. [journal/LayeredSecrecyReview_published.pdf Broadcast Networks with Layered Decoding and Layered Secrecy: Theory and Applications]\n *S. Zou*, Y. Liang, L. Lai, H. V. Poor, S. Shamai (Shitz)\n Proceedings of the IEEE, vol.103, no.10, pp.1841-1856, Oct. 2015.
-. [journal/secretsharing2015publish.pdf An Information Theoretic Approach to Secret Sharing]\n *S. Zou*, Y. Liang, L. Lai, S. Shamai (Shitz)\n IEEE Transactions on Information Theory, vol.61, no.6, pp.3121-3136, June 2015.
-
-
-
 
 == Conference Publications
-=== 2021 
-- Quickest Detection of Series Arc Faults on DC Microgrids \n K. Gajula, V. Le, X. Yao, S. Zou, L. Herrera \n IEEE Energy Conversion Congress and Exposition (ECCE), 2021
-- A Data-Driven Approach to Robust Hypothesis Testing Using Kernel MMD Uncertainty Sets \n Z. Sun, S. Zou \n IEEE International Symposium on Information Theory (ISIT), 2021
-- Quickest Dynamic Anomaly Detection in Anonymous Heterogeneous Sensor Networks \n Z. Sun, S. Zou \n IEEE International Symposium on Information Theory (ISIT), 2021
-- A Computationally Efficient Algorithm for Quickest Change Detection in Anonymous Heterogeneous Sensor Networks \n Z. Sun, Q. Li, R. Zhang, S. Zou \n IEEE International Symposium on Information Theory (ISIT), 2021
-- [https://openreview.net/forum?id=6t_dLShIUyZ Greedy-GQ with Variance Reduction: Finite-time Analysis and Improved Complexity]\n S. Ma, Y. Zhou, S. Zou\n International Conference on Learning Representations (ICLR) 2021 *(acceptance rate: 28.7%)*
+- Provably Faster Algorithms for Bilevel Optimization \n Junjie Yang, Kaiyi Ji, Yingbin Liang \n Submitted to *NeurIPS 2021*.
+- Bilevel Optimization: Nonasymptotic Analysis and Faster Algorithms \n Kaiyi Ji, Junjie Yang, Yingbin Liang \n *ICML 2021* \n Short version appears at ICML 2021 Workshop: Beyond First-Order Methods in ML Systems.
+- Convergence of Meta-Learning with Task-Specific Adaptation over Partial Parameters \n Kaiyi Ji, Jason D. Lee, Yingbin Liang, H. Vincent Poor \n *NeurIPS 2020*.
+- History-Gradient Aided Batch Size Adaptation for Variance Reduced Algorithms \n Kaiyi Ji, Zhe Wang, Bowen Weng, Yi Zhou, Wei Zhang, Yingbin Liang, \n *ICML 2020 (21.8% acceptance rate)*.
+- Proximal Gradient Algorithm with Momentum and Flexible Parameter Restart for Nonconvex Optimization \n Yi Zhou, Zhe Wang, Kaiyi Ji, Yingbin Liang, Vahid Tarokh \n *IJCAI 2020 (12.6% acceptance rate)*.
+- Robust Stochastic Bandit Algorithms under Probabilistic Unbounded Adversarial Attack \n Ziwei Guan, Kaiyi Ji,  Donald J. Bucci Jr, Timothy Hu, Joseph Palombo, Michael Liston, Yingbin Liang \n *AAAI 2020 (20.6% acceptance rate)*.
+- SpiderBoost and Momentum: Faster Stochastic Variance Reduction Algorithms \n Zhe Wang, Kaiyi Ji,  Yi Zhou, Yingbin Liang, Vahid Tarokh \n *NeurIPS 2019 (21% acceptance rate)*.
+- Improved Zeroth-Order Variance Reduced Algorithms and Analysis for Nonconvex Optimization \n Kaiyi Ji, Zhe Wang, Yi Zhou, Yingbin Liang \n *ICML 2019 (22.5% acceptance rate)*.
+- Minimax Estimation of Neural Net Distance \n Kaiyi Ji, Yingbin Liang \n *NeurIPS 2018 (21% acceptance rate)*.
+- Asymptotic Miss Ratio of LRU Caching with Consistent Hashing \n Kaiyi Ji, Guocong Quan, Jian Tan \n *IEEE INFOCOM 2018 (19% acceptance rate)*.
+- LRU Caching with Dependent Competing Requests \n Guocong Quan, Kaiyi Ji, Jian Tan \n *IEEE INFOCOM 2018 (19% acceptance rate)*.
+- On Resource Pooling and Separation for LRU Caching \n   Jian Tan, Guocong Quan, Kaiyi Ji,  Ness Shroff \n *SIGMETRICS 2018 (20% acceptance rate)*.
 
-- [https://arxiv.org/pdf/2012.03429.pdf Learning Graph Neural Networks with Approximate Gradient Descent]\n Q. Li, S. Zou, W. Zhong\n AAAI Conference on Artificial Intelligence (AAAI), Virtual Conference, Feb. 2021 *(acceptance rate: 21%)*
 
-=== 2020 
-- [https://arxiv.org/pdf/2010.13272.pdf Variance-Reduced Off-Policy TDC Learning: Non-Asymptotic Convergence Analysis] \n S. Ma, Y. Zhou, S. Zou\n Conference on Neural Information Processing Systems (NeurIPS), Vancouver CA, Dec 2020. *(acceptance rate: 20.1%)*\n
-- [conference/greedygq.pdf Finite-sample Analysis of Greedy-GQ with Linear Function Approximation under Markovian Noise] \n Y. Wang, S. Zou\n Conference on Uncertainty in Artificial Intelligence (UAI), Aug. 2020  *(acceptance rate: 27.6%)*
-- A Game-Theoretic Approach to Sequential Detection in Adversarial Environments\n R. Zhang, S. Zou\n IEEE International Symposium on Information Theory (ISIT), June 2020.
-- [conference/icassp2020.pdf Quickest Change Detection in Anonymous Heterogeneous Sensor Networks] \n Z. Sun, S. Zou, Q. Li \n IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, May. 2020.
-- [https://arxiv.org/abs/1901.09421 Information-Theoretic Understanding of Population Risk Improvement with Model Compression]\n Y. Bu, W. Gao, S. Zou, V. V. Veeravalli\n AAAI Conference on Artificial Intelligence (AAAI), New York, USA, Feb. 2020 *(acceptance rate: 20.6%)*\n
-[poster/aaai2020.pdf Poster]
-
-=== 2019
-- [https://arxiv.org/abs/1902.02234 Finite-Sample Analysis for SARSA with Linear Function Approximation]\n S. Zou, T. Xu, Y. Liang
-\n Conference on Neural Information Processing Systems (NeurIPS), Vancouver CA, Dec 2019. *(acceptance rate: 21%)*\n
-[poster/nips2019sarsa.pdf Poster]\n
-[slides/nips2019sarsa.pptx Slides]
-- [https://arxiv.org/abs/1909.11907 Two Time-scale Off-Policy TD Learning: Non-asymptotic Analysis over Markovian Samples]\n T. Xu, S. Zou, Y. Liang \n Conference on Neural Information Processing Systems (NeurIPS), Vancouver CA, Dec 2019. *(acceptance rate: 21%)*\n
-[poster/nips2019tdc.pdf Poster]
-- A Consensus-based Approach for Distributed Quickest Detection of Significant Events in Networks\n J. Li, D. Towsley, S. Zou, V. V. Veeravalli and G. Ciocarlie \n Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, USA, 2019.
-- Tightening Mutual Information Based Bounds on Generalization Error \n Y. Bu, S. Zou, V. V. Veeravalli \n IEEE International Symposium on Information Theory (ISIT), June 2019.
-- Quickest Detection of a Moving Target in a Sensor Network\n G. Rovatsos, S. Zou, V. V. Veeravalli \n IEEE International Symposium on Information Theory (ISIT), June 2019.
-- Distributed Quickest Detection of Significant Events in Networks \n S. Zou, V. V. Veeravalli, J. Li, D. Towsley, A. Swami \n IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019.
-=== 2018
-- Quickest Detection of Significant Events in Structured Networks\n S. Zou, V. V. Veeravalli, J. Li, D. Towsley\n Asilomar Conference on Signals, Systems, and Computers, Oct. 2018.
-- Stochastic Control of Power Supply in Data Centers\n G. Rovatsos, S. Zou, A. Dominguez-Garcia, V. V. Veeravalli\n  Asilomar Conference on Signals, Systems, and Computers,  Oct. 2018.
-- [conference/ICASSP_2018_networkeventdetection.pdf Quickest Detection of Dynamic Events in Sensor Networks] \n S. Zou, V. V. Veeravalli\n  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Alberta, Canada, April. 2018.
-=== 2017
-- [\conference\CNS2017FadingSecrecy.pdf Gaussian Fading Channel with Secrecy Outside a Bounded Range]\n S. Zou, Y. Liang, S. Shamai\n IEEE Conference on Communications and Network Security (CNS): The Workshop on Physical-Layer Methods for Wireless Security, Las Vegas, USA Oct. 2017.
-- [\conference\DCUSUMISIT2017.pdf Asymptotic Optimality of D-CuSum for Quickest Change Detection under Transient Dynamics]\n S. Zou, G. Fellouris, V. V. Veeravalli\n IEEE International Symposium on Information Theory (ISIT), Aachen, Germany, June 2017.
-- [\conference\Linear2017ISIT.pdf Linear-Complexity Exponentially-Consistent Tests for Universal Outlying Sequence Detection]\n Y. Bu, S. Zou, V. V. Veeravalli\n IEEE International Symposium on Information Theory (ISIT), Aachen,  Germany, June 2017.
-- [conference/ICASSP_2017.pdf Quickest Change Detection under Transient Dynamics]\n G. Rovatsos, S. Zou, V. V. Veeravalli\n IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), New Orleans, USA, Mar. 2017.
-=== 2016
-- [conference/SecrecyRange_Kuser_ITW2016.pdf K-User Degraded Broadcast Channel with Secrecy Outside a Bounded Range]\n S. Zou, Y. Liang, L. Lai, H. V. Poor, S. Shamai (Shitz)\n IEEE Information Theory Workshop (ITW), Cambridge, Sept. 2016.
-- [conference/ISIT2016_v7.pdf Estimation of KL Divergence Between Large-Alphabet Distributions]\n Y. Bu, S. Zou, Y. Liang, V. V. Veeravalli\n IEEE International Symposium on Information Theory (ISIT), Barcelona, Jul. 2016.
-- [conference/icassp_continuous.pdf Universal Outlying Sequence Detection for Continuous Observations]\n Y. Bu, S. Zou, Y. Liang, V. V. Veeravalli\n IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Shanghai, Mar. 2016.
-- [conference/ICASSP2016_DiskDetection.pdf Nonparametric Detection of an Anomalous Disk over a Two-Dimensional Lattice Network]\n S. Zou, Y. Liang, H. V. Poor\n IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Shanghai, Mar. 2016.
-- [conference/IZS_2015_Layered_Secrecy.pdf Recent Results on Broadcast Networks with Layered Decoding and Secrecy: an Overview]\n S. Zou, Y. Liang, L. Lai, H. V. Poor, S. Shamai (Shitz)\n International Zurich Seminar on Communications (IZS), Zurich, Mar. 2016.
-=== 2015
-- [conference/SecrecyRange_4user_ISIT2015.pdf Rate Splitting and Sharing for Degraded Broadcast Channel with Secrecy Outside a Bounded Range]\n S. Zou, Y. Liang, L. Lai, S. Shamai (Shitz)\n IEEE International Symposium on Information Theory (ISIT), Hongkong, Jun. 2015.
-- [conference/SecrecyRange_ITW2015.pdf Degraded Broadcast Channel: Secrecy Outside of a Bounded Range]\n S. Zou, Y. Liang, L. Lai, S. Shamai (Shitz)\n IEEE Information Theory Workshop (ITW), Jerusalem, Apr. 2015.
-=== 2014
-- [conference/allerton.pdf Unsupervised Nonparametric Anomaly Detection: A Kernel Method] \n S. Zou, Y. Liang, H. V. Poor, X. Shi\n 52th Annual Allerton Conference on Communication, Control, and Computing, Monticello, IL, Oct. 2014.
-- [conference/IntervalDetection_MLSP2014.pdf A Kernel-Based Nonparametric Test for Anomaly Detection over Line Network]\n S. Zou, Y. Liang, H. V. Poor\n IEEE International Workshop on Machine Learning for Signal Processing (MLSP), Reims, Sept. 2014.
-- [conference/SequenceDetection_SPAWC2014.pdf Kernel-Based Nonparametric Anomaly Detection]\n S. Zou, Y. Liang, H. V. Poor, X. Shi\n IEEE 15th Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Toronto, Jun. 2014.
-- [conference/MIMO_Layered_Secrecy_ISIT2014.pdf Layered Decoding and Secrecy over Degraded Gaussian MIMO Broadcast Channels and Application in Secret Sharing]\n S. Zou, Y. Liang, L. Lai, S. Shamai (Shitz)\n IEEE International Symposium on Information Theory (ISIT), Honolulu, Jun. 2014.
-=== 2013
-- [conference/Layered_security-spawc2013.pdf Layered Decoding and Secrecy over Degraded Broadcast Channels] \n S. Zou, Y. Liang, L. Lai, S. Shamai (Shitz)\n IEEE 14th Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Darmstadt, Jun. 2013.
-- [conference/MacState_isit2013_final.pdf Multiple Access Channel with State Uncertainty at Transmitters]\n S. Zou, Y. Liang, S. Shamai (Shitz)\n IEEE International Symposium on Information Theory (ISIT), Istanbul, Jun. 2013.
-
-== Projects
-Our research is generously supported by NSF and University at Buffalo, the State University of New York.
-~~~
-{}{img_left}{nsflogo.png}{alt text}{175}{}{}
-- CRII: CIF: Dynamic Network Event Detection with Time-Series Data\n Sole PI\nJune 1, 2020-May 31, 2022
-- CIF: Small: Reinforcement Learning with Function Approximation: Convergent Algorithms and Finite-sample Analysis\n Sole PI\n October 1, 2020-September 30, 2023
-- Collaborative Research: CIF: Medium: Emerging Directions in Robust Learning and Inference\n PI (at Buffalo), with V. Veeravalli (Lead, UIUC) and G. Atia (UCF)\n June 1, 2021-May 30 2025
-- CCSS: Collaborative Research: Quickest Threat Detection in Adversarial Sensor Networks\n PIs: Shaofeng Zou (Lead, UB), Ruizhi Zhang (UNL)\n September 1, 2021-August 31, 2024
-~~~
-
-~~~
-{}{img_left}{ublogo.jpg}{alt text}{175}{}{}
-~~~
-
+== Journal Publications and Preprints
+. Boosting One-Point Derivative-Free Online Optimization via Residual Feedback \n Yan Zhang, Yi Zhou, Kaiyi Ji, Michael M. Zavlanos \n To be submitted a journal. 
+. Lower Bounds and Accelerated Algorithms for Bilevel Optimization \n Kaiyi Ji, Yingbin Liang \n Submitted to *JMLR 2021*.
+. A New One-Point Residual-Feedback Oracle For Black-Box Learning and Control \n  Yan Zhang, Yi Zhou, Kaiyi Ji, Michael M. Zavlanos \n *Automatica 2021*.
+. Theoretical Convergence of Multi-Step Model-Agnostic Meta-Learning \n Kaiyi Ji, Junjie Yang, Yingbin Liang \n *JMLR 2021* \n Short version appears at ICML 2021 Workshop: Beyond First-Order Methods in ML Systems
+. Understanding Estimation and Generalization Error of Generative Adversarial Networks \n Kaiyi Ji, Yi Zhou, Yingbin Liang \n *IEEE Trans. on Information Theory (TIT), 2021*.
+. When Will Gradient Methods Converge to Max-margin Classifier under ReLU Models? \n Tengyu Xu, Yi Zhou, Kaiyi Ji, Yingbin Liang \n *Stat*, Special Issue of Deep Learning from Statistical Perspective, 2021
+. Learning Latent Features with Pairwise Penalties in Matrix Completion \n  Kaiyi Ji, Jian Tan, Yuejie Chi, Jinfeng Xu \n  *IEEE Trans. on Signal Processing (TSP), 2020* \n Short version as an invited paper to a special session at the IEEE SAM 2020
+. On Resource Pooling and Separation for LRU Caching \n  Jian Tan, Guocong Quan, Kaiyi Ji,  Ness Shroff \n Proceedings of the ACM on Measurement and Analysis of Computing Systems (POMACS), 2018
