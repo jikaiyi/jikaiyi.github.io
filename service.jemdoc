@@ -1,57 +1,30 @@
 # jemdoc: menu{MENU}{pub.html}, nofooter  
-= Service & Professional Activities
+= Experience
 
-== Technical Committee Member
-~~~
-- IEEE Signal Processing for Communications and Networking (SPS SPCOM) Technical Committee , starting from Jan 1, 2020.
-~~~
+== Working Experiences
 
-== TPC
-~~~
-- IEEE SPAWC 2021
-- IEEE BigData 2021 
-~~~
+- Visiting Student Research Collaborator, Princeton University
+-- Advisor: Prof. H. Vincent Poor, Mar. 2020 - Apr. 2020 (early stop due to Covid-19) 
+-- Project: theoretical convergence of meta-learning
 
-== Reviewer
-~~~
-{Journal}
-- Proceedings of the IEEE
-- IEEE Transactions on Information Theory
-- IEEE Transactions on Signal Processing
-- IEEE Signal Processing Letters
-- IEEE Transactions on Wireless Communications
-- IEEE Transactions on Communications
-- IEEE Journal of Selected Topics in Signal Processing
-- IEEE/ACM Transactions on Networking
-- IEEE Transactions on Control Systems Technology
-- IEICE Transactions on Fundamentals of Electronics
-- INFORMS Journal on Data Science
-~~~
+- Research Intern, Alibaba DAMO Academy (US group)
+-- Topic: AI for database systems, May. 2019 - Aug. 2019
 
-~~~
-{Conference}
+
+== Conference Reviewer 
+
+- ICML (expert reviewer, top 10% reviewer)
+- NeurIPS (expert reviewer, top 10% reviewer)
+- ICLR
+- IJCAI 
 - AAAI
-- NeurIPS
-- ICML
-- IJCAI-PRICAI 
-- MLSP
-- ISIT
-- ICASSP
-- ITW
-- SPAWC
-- ISITA
-~~~
+- INFOCOM
+- SIGMETRICS
+- VLDB
 
-== Conference Organizing
-~~~
-- Organizer and session chair, Special session "Network Event Detection" at IEEE ICASSP, Alberta, Canada, 2018
-- Co-organize 1st and 2nd [http://www.acsu.buffalo.edu/~guan/wirelessday/2020.html Buffalo Day for 5G and Wireless Internet of Things]
-~~~
+== Journal Reviewer
 
-== Membership
-~~~
-- IEEE member
-- IEEE Information Theory Society
-- IEEE Communications Society
-- IEEE Signal Processing Society
-~~~
+- IEEE Transactions on Signal Processing
+- IEEE/ACM Transactions on Networking
+- IEEE Transactions on Pattern Analysis and Machine Intelligence
+- STAT
