@@ -20,7 +20,7 @@ Previously I obtained my B.E. degree from University of Science and Technology o
 
 ==  Research 
 I have worked at the intersection of optimization and modern machine learning, on both the theory and application sides. My current major interest lies in bilevel optimization and its application 
-to timely domains including meta-learning, hyperparameter optimization, networkings and data mining.   
+to timely domains including meta-learning, hyperparameter optimization, communication networks and data mining.   
 
 - On the theory side, I focus on the convergence theories for a variety of bilevel algorithms such as MAML, ANIL, approximated implicit differentiation (AID) and iterative differention (ITD) based bilevel optimizers, and provide rigorious explainations on exisitng training heuristics for bilevel optimization applications. 
 I am also interested in charaterizing the fundamental limitations and optimality for bilevel optimization via developing new lower complexity bounds. 
@@ -28,7 +28,7 @@ I am also interested in charaterizing the fundamental limitations and optimality
 - On the application side, I am interested in developing high-efficiency, scalable, and principled bilevel optimizers for meta-learning and hyperparameter optimization (particularly with large-scale datasets and highly deep models) 
 via stochastic updates with data sampling, principled first-order approximation, acceleration & momentum, and evalutionary strategies.    
 
-I am also interested in the theory of gradient-free optimization, generative models, and networkings.  
+I am also interested in the theory of gradient-free optimization, generative models, and communication networks.  
 
 == News! 
 - I am rewarded as *expert reviewer* and *top 10% reviewer* for ICML 2021! Really honered! 
