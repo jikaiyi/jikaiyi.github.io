@@ -7,7 +7,7 @@
 
 == Conference Papers
 
-- [https://arxiv.org/pdf/2106.04692.pdf Provably Faster Algorithms for Bilevel Optimization] [https://github.com/JunjieYang97/MRVRBO <Code>] \n Junjie Yang, *Kaiyi Ji*, Yingbin Liang \n Conference on Neural Information Processing Systems (NeurIPS) 2021. *(Spotlight, < 3% acceptance rate)* 
+- [https://arxiv.org/pdf/2106.04692.pdf Provably Faster Algorithms for Bilevel Optimization] [https://github.com/JunjieYang97/MRVRBO <Code>] \n Junjie Yang, *Kaiyi Ji*, Yingbin Liang \n Conference on Neural Information Processing Systems (NeurIPS) 2021. *(Spotlight, 3% acceptance rate)* 
 
 - [https://arxiv.org/abs/2010.07962 Bilevel Optimization: Nonasymptotic Analysis and Faster Algorithms] [https://github.com/JunjieYang97/stocBiO <Code>] \n *Kaiyi Ji*, Junjie Yang, Yingbin Liang \n International Conference on Machine Learning (ICML) 2021 *(21.4% acceptance rate)* \n Short version appears at ICML 2021 Workshop: Beyond First-Order Methods in ML Systems.
 
