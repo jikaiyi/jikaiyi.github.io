@@ -31,6 +31,8 @@ via stochastic updates with data sampling, principled first-order approximation,
 I am also interested in the theory of gradient-free optimization, generative models, and communication networks.  
 
 == News! 
+- Our recent paper on momentum-based bilevel optimization has been accepted by NeurIPS 2021 with a *spoilight* presentation! 
+  Check our [https://arxiv.org/pdf/2106.04692.pdf paper] and [https://github.com/JunjieYang97/MRVRBO code]. More results will be added.    
 - I am rewarded as *expert reviewer* and *top 10% reviewer* for ICML 2021! Really honered! 
 - Our paper on bilevel optimization has been accepted by ICML 2021. We provide new and comprehensive nonasympototic analysis for this area. 
 We further propose a fast stochastic solver *stocBiO* with strong performance in applications such as hyperparameter optimization! Check our [https://arxiv.org/abs/2010.07962 paper] 
