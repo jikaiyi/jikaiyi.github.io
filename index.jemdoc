@@ -32,7 +32,8 @@ I am also interested in the theory of gradient-free optimization, generative mod
 
 == News! 
 - New manuscript out: [https://arxiv.org/pdf/2110.07004.pdf ES-Based Jacobian Enables Faster Bilevel Optimization]. 
-   -- We develop a *Hessian-free* bilevel optimizer building on a Evolution Strategies (ES) based response Jacobian estimator, which performs consistently well over various bilevel applications.
+   -- We develop a *Hessian-free* bilevel optimizer building on a Evolution Strategies (ES) based response Jacobian estimator, 
+      which performs consistently well over various bilevel problems and scales well with large data and deep neural nets.
       Our implementation can be found through [https://github.com/sowmaster/esjacobians code]!
 - I am honored to receive an *outstanding reviewer award* from NeurIPS 2021 *(top 8% of reviewers)*!  
 - Our recent paper on momentum-based bilevel optimization has been accepted by NeurIPS 2021 with a *spotlight* presentation *(3% acceptance rate)*! 
