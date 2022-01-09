@@ -29,6 +29,8 @@ My major research focuses include:
 - Machine learning for communication and caching networks
 
 == News! 
+- Prof. Yingbin Liang (from OSU) and I are organizing an invited session on "Bilevel Machine Learning" 
+  for the 2022 Conference on Information Sciences and Systems (CISS) virtually from March 9 to 11, 2022.[http://ee-ciss.princeton.edu/ <website>]
 - [12/2021] Invited talk at the Next Generation Transportation Systems (NGTS) Seminar, University of Michigan. 
 - New manuscript out: [https://arxiv.org/pdf/2110.07004.pdf ES-Based Jacobian Enables Faster Bilevel Optimization]. 
    -- We develop a *Hessian-free* bilevel optimizer building on a Evolution Strategies (ES) based response Jacobian estimator, 
