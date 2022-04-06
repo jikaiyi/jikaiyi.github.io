@@ -31,21 +31,30 @@ My major research focuses include:
 - Machine learning for communication networks and databases
 
 == News! 
+- New manuscript out: [https://arxiv.org/pdf/2203.01123.pdf A Constrained Optimization Approach to Bilevel Optimization with Multiple Inner Minima]. A primal-dual *Hessian-free* bilevel method that provably 
+converges in multiple inner minima settings. 
+
 - Prof. Yingbin Liang (from OSU) and I are organizing an invited session on "Bilevel Machine Learning" 
   for the 2022 Conference on Information Sciences and Systems (CISS) virtually from March 9 to 11, 2022. see [http://ee-ciss.princeton.edu/ <website>] for more details. 
+  
 - [12/2021] Invited talk at the Next Generation Transportation Systems (NGTS) Seminar, University of Michigan. 
-- New manuscript out: [https://arxiv.org/pdf/2110.07004.pdf ES-Based Jacobian Enables Faster Bilevel Optimization]. 
-   -- We develop a *Hessian-free* bilevel optimizer building on a Evolution Strategies (ES) based response Jacobian estimator, 
-      which performs consistently well over various bilevel problems and scales well with large data and deep neural nets.
-      Check our [https://github.com/sowmaster/esjacobians <code>]!
-- I am honored to receive an *outstanding reviewer award* from NeurIPS 2021 *(top 8% of reviewers)*!  
-- Our recent paper on momentum-based bilevel optimization has been accepted by NeurIPS 2021 with a *spotlight* presentation *(3% acceptance rate)*! 
-  Check our [https://arxiv.org/pdf/2106.04692.pdf paper] and [https://github.com/JunjieYang97/MRVRBO code]. More results will be added.    
-- I am rewarded as *expert reviewer* and *top 10% reviewer* for ICML 2021 [https://icml.cc/Conferences/2021/Reviewers <Link>]! Really honered! 
-- Our paper on bilevel optimization has been accepted by ICML 2021. We provide new and comprehensive nonasympototic analysis for this area. 
-We further propose a fast stochastic solver *stocBiO* with strong performance in applications such as hyperparameter optimization! Check our [https://arxiv.org/abs/2010.07962 paper] 
+
+- New manuscript out: [https://arxiv.org/pdf/2110.07004.pdf ES-Based Jacobian Enables Faster Bilevel Optimization]. Scalable *Hessian-free* bilevel approach. [https://github.com/sowmaster/esjacobians <code>]!
+  
+- I am honored to receive an outstanding reviewer award from NeurIPS 2021 (top 8% of reviewers)!  
+
+- Our recent paper on momentum-based bilevel optimization has been accepted by NeurIPS 2021 with a spotlight presentation (3% acceptance rate)! 
+  Check our [https://arxiv.org/pdf/2106.04692.pdf paper] and [https://github.com/JunjieYang97/MRVRBO code]. More results will be added.  
+  
+- I am rewarded as expert reviewer and top 10% reviewer for ICML 2021 [https://icml.cc/Conferences/2021/Reviewers <Link>]! Really honered!
+
+- Our paper on bilevel optimization has been accepted by ICML 2021. We provide comprehensive nonasympototic analysis and stochastic solver *stocBiO* for this area. Check our [https://arxiv.org/abs/2010.07962 paper] 
 and [https://github.com/JunjieYang97/stocBiO code]!
-- Our paper on theoretical analysis of MAML has been accepted by *JMLR 2021* with minor revision.
-- Our paper on generalization error of GANs has been accepted by *Trans. on Information Theory (TIT) 2021*.
-- I am really honored to receive the 2020/21 *Presidential Fellowship* at OSU, the highest award for graduate students! I am one of three winners of this award from ECE department this year. 
+
+- Our paper on theoretical analysis of MAML has been accepted by JMLR 2021.
+
+- Our paper on generalization error of GANs has been accepted by Trans. on Information Theory (TIT) 2021.
+
+- I am really honored to receive the 2020/21 *Presidential Fellowship* at OSU, the highest award for graduate students!  
+
 - I was awarded as a top 10% high-scoring reviewer for NeurIPS 2020. Thanks!
