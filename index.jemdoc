@@ -18,15 +18,17 @@ I received my doctoral degree from the Electrical and Computer Engineering Depar
 I was a visiting student research collaborator at the department of Electrical Engineering, Princeton University working with [https://ece.princeton.edu/people/h-vincent-poor Prof. H. Vincent Poor]. 
 Previously I obtained my B.S. degree from University of Science and Technology of China in 2016.
 
-*I am going to recruit students*
+*I am joining the Department of Computer Science and Engineering at SUNY Buffola as a tenure-track assistant professor this fall. 
+I am looking for self-motivated Ph.D. students with a solid theoretical background in machine learning, algorithms and control, or with rich coding experience 
+in deep learning, CV, and NLP. Please send me an email with your CV and transcript if you are interested.*
 
 ==  Research 
 I have been working at the intersection of optimization, machine learning and complex systems, on both the theory and application sides. 
 My major research focuses include:
-- Bilevel deep learning (theory, algorithm, and application in autoML, communication networks, database systems, etc.)
-- Meta-learning (optimization theory and scalable algorithmic design)
-- Large-scale optimization (theory and algorithm for big-data applications)
-- Machine learning for communication and caching networks
+- Bilevel deep learning 
+- Meta-learning and continual learning
+- Large-scale stochastic optimization 
+- Machine learning for communication networks and databases
 
 == News! 
 - Prof. Yingbin Liang (from OSU) and I are organizing an invited session on "Bilevel Machine Learning" 
