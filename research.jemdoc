@@ -5,8 +5,18 @@
 
 - [https://arxiv.org/pdf/2108.00330 Bilevel Optimization for Machine Learning: Algorithm Design and Convergence Analysis] \n Ph. D. Dissertation, The Ohio State University, August 2021.
 
-== Conference Papers
+== Preprints
+
+- [https://arxiv.org/pdf/2204.00006.pdf Data Sampling Affects the Complexity of Online SGD over Dependent Data] \n Shaocong Ma, Ziyi Chen, Yi Zhou, *Kaiyi Ji*, Yingbin Liang. Submitted. 
+
+- [https://arxiv.org/pdf/2202.03684.pdf Efficiently Escaping Saddle Points in Bilevel Optimization] \n Minhui Huang, *Kaiyi Ji*, Shiqian Ma, Lifeng Lai. Submitted to JMLR 2022. 
+
+- [https://arxiv.org/pdf/2203.01123 A Constrained Optimization Approach to Bilevel Optimization with Multiple Inner Minima] \n Daouda Sow, *Kaiyi Ji*, Ziwei Guan, Yingbin Liang. Submitted. 
+
 - [https://arxiv.org/pdf/2110.07004.pdf ES-Based Jacobian Enables Faster Bilevel Optimization] [https://github.com/sowmaster/esjacobians <Code>] \n Daouda Sow, *Kaiyi Ji*, Yingbin Liang. Submitted. 
+
+
+== Conference Papers
 
 - [https://arxiv.org/pdf/2106.04692.pdf Provably Faster Algorithms for Bilevel Optimization] [https://github.com/JunjieYang97/MRVRBO <Code>] \n Junjie Yang, *Kaiyi Ji*, Yingbin Liang \n Conference on Neural Information Processing Systems (NeurIPS) 2021. *(Spotlight, 3% acceptance rate)* 
 
