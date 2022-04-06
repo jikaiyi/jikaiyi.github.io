@@ -31,8 +31,11 @@ My major research focuses include:
 - Machine learning for communication networks and databases
 
 == News! 
+- New manuscript out: [https://arxiv.org/pdf/2202.03684 Efficiently Escaping Saddle Points in Bilevel Optimization]. We develop *first-order* methods 
+that can efficiently escape saddle points in minimax and bilevel optimization. Joint work with Minhui Huang, Shiqian Ma, Lifeng Lai from UC Davis. 
+
 - New manuscript out: [https://arxiv.org/pdf/2203.01123.pdf A Constrained Optimization Approach to Bilevel Optimization with Multiple Inner Minima]. A primal-dual *Hessian-free* bilevel method that provably 
-converges in multiple inner minima settings. 
+converges in problems with multiple inner minima. 
 
 - Prof. Yingbin Liang (from OSU) and I are organizing an invited session on "Bilevel Machine Learning" 
   for the 2022 Conference on Information Sciences and Systems (CISS) virtually from March 9 to 11, 2022. see [http://ee-ciss.princeton.edu/ <website>] for more details. 
