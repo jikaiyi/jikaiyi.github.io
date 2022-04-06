@@ -42,7 +42,7 @@ converges in problems with multiple inner minima.
   
 - [12/2021] Invited talk at the Next Generation Transportation Systems (NGTS) Seminar, University of Michigan. 
 
-- New manuscript out: [https://arxiv.org/pdf/2110.07004.pdf ES-Based Jacobian Enables Faster Bilevel Optimization]. Scalable *Hessian-free* bilevel approach. [https://github.com/sowmaster/esjacobians <code>]!
+- New manuscript out: [https://arxiv.org/pdf/2110.07004.pdf ES-Based Jacobian Enables Faster Bilevel Optimization]. Scalable *Hessian-free* bilevel approach with promising performance in meta-learning and autoML. [https://github.com/sowmaster/esjacobians <code>]!
   
 - I am honored to receive an outstanding reviewer award from NeurIPS 2021 (top 8% of reviewers)!  
 
