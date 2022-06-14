@@ -11,16 +11,18 @@
 - Email: kaiyiji at umich.edu 
 ~~~
 
+== Anouncement!
+*I am joining the Department of Computer Science and Engineering at SUNY Buffalo as a tenure-track assistant professor this fall. 
+I am looking for self-motivated Ph.D. students with a solid theoretical background in machine learning, algorithms and control, or with rich coding experience 
+in deep learning, CV, and NLP. Please send me an email with your CV and transcript if you are interested.*  
+
+
 == About Me
 I am now a postdoctoral research fellow at the Electrical Engineering and Computer Science Department of the University of Michigan, Ann Arbor, working with
 [https://leiying.engin.umich.edu Prof. Lei Ying]. 
 I received my doctoral degree from the Electrical and Computer Engineering Department of The Ohio State University in December, 2021, under the supervision of [https://sites.google.com/view/yingbinliang/home Prof. Yingbin Liang]. 
 I was a visiting student research collaborator at the department of Electrical Engineering, Princeton University working with [https://ece.princeton.edu/people/h-vincent-poor Prof. H. Vincent Poor]. 
 Previously I obtained my B.S. degree from University of Science and Technology of China in 2016.
-
-*I am joining the Department of Computer Science and Engineering at SUNY Buffalo as a tenure-track assistant professor this fall. 
-I am looking for self-motivated Ph.D. students with a solid theoretical background in machine learning, algorithms and control, or with rich coding experience 
-in deep learning, CV, and NLP. Please send me an email with your CV and transcript if you are interested.*  
 
 ==  Research 
 I have been working at the intersection of optimization, machine learning and complex systems, on both the theory and application sides. 
@@ -31,6 +33,9 @@ My major research focuses include:
 - Machine learning for communication networks and databases
 
 == News! 
+- New manuscript out: [https://arxiv.org/pdf/2205.14224 Will Bilevel Optimizers Benefit from Loops]. We develop a unified convergence theory for AID- and ITD-based bilevel 
+optimization, which covers all implementation choices of loops. Check it out! 
+
 - New manuscript out: [https://arxiv.org/pdf/2202.03684 Efficiently Escaping Saddle Points in Bilevel Optimization]. We develop *first-order* methods 
 that can efficiently escape saddle points in minimax and bilevel optimization. Joint work with Minhui Huang, Shiqian Ma, Lifeng Lai from UC Davis. 
 
