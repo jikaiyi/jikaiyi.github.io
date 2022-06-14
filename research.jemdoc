@@ -7,7 +7,7 @@
 
 == Preprints
 
-- [https://arxiv.org/pdf/2204.00006.pdf Data Sampling Affects the Complexity of Online SGD over Dependent Data] \n Shaocong Ma, Ziyi Chen, Yi Zhou, *Kaiyi Ji*, Yingbin Liang. Submitted. 
+- [https://arxiv.org/pdf/2205.14224 Will Bilevel Optimizers Benefit from Loops] \n *Kaiyi Ji*, Mingrui Liu, Yingbin Liang, Lei Ying. Submitted. 
 
 - [https://arxiv.org/pdf/2202.03684.pdf Efficiently Escaping Saddle Points in Bilevel Optimization] \n Minhui Huang, *Kaiyi Ji*, Shiqian Ma, Lifeng Lai. Submitted to JMLR 2022. 
 
@@ -17,6 +17,8 @@
 
 
 == Conference Papers
+
+- [https://arxiv.org/pdf/2204.00006.pdf Data Sampling Affects the Complexity of Online SGD over Dependent Data] \n Shaocong Ma, Ziyi Chen, Yi Zhou, *Kaiyi Ji*, Yingbin Liang. \nConference on Uncertainty in Artificial Intelligence (UAI) 2022. 
 
 - [https://arxiv.org/pdf/2106.04692.pdf Provably Faster Algorithms for Bilevel Optimization] [https://github.com/JunjieYang97/MRVRBO <Code>] \n Junjie Yang, *Kaiyi Ji*, Yingbin Liang \n Conference on Neural Information Processing Systems (NeurIPS) 2021. *(Spotlight, 3% acceptance rate)* 
 
