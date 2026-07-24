@@ -16,6 +16,8 @@ body{font-size:1.5rem;line-height:1.65;color:#252525}
 .research-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:3.5rem;margin-top:2.2rem}
 .research-block{padding-top:0}
 .research-theme{font-size:1.65rem;font-weight:600;line-height:1.4;letter-spacing:.01rem;margin:0 0 1.5rem!important}
+.research-theme i{margin-right:.65rem;color:#536d8a;font-size:1.55rem}
+.research-block:nth-child(2) .research-theme i{color:#6b5f8f}
 .research-block ul{list-style:none;margin:0;padding:0}
 .research-block li{margin:0;padding:.9rem 0;border-top:1px solid #eee;font-size:1.4rem;line-height:1.5!important;color:#555}
 .research-block li:first-child{border-top:0;padding-top:0}
