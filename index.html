@@ -88,13 +88,13 @@ title: Home
 
   <div class="tab-content">
     <div class="tab-pane active" id="pub-highlighted">
-      {% assign highlighted_groups = "Efficient Methods for Large Language Models|llm|fa-language,Machine Learning with Multiple Objectives|multiple-objectives|fa-circle-nodes,Fundamental Theory of Bilevel and Multi-Objective Optimization|theory|fa-infinity" | split: "," %}
+      {% assign highlighted_groups = "Efficient Methods for Large Language Models|llm|fa-robot,Machine Learning with Multiple Objectives|multiple-objectives|fa-circle-nodes,Fundamental Theory of Bilevel and Multi-Objective Optimization|theory|fa-infinity" | split: "," %}
       {% for group in highlighted_groups %}
         {% assign group_parts = group | split: "|" %}
         <h5 class="publication-group">
           <span class="publication-group-icon" aria-hidden="true">
             <i class="fa-solid {{ group_parts[2] }}"></i>
-            {% if group_parts[1] == "llm" %}<i class="fa-solid fa-bolt efficiency-icon"></i>{% endif %}
+            {% if group_parts[1] == "llm" %}<i class="fa-solid fa-gauge-high efficiency-icon"></i>{% endif %}
           </span>
           {{ group_parts[0] }}
         </h5>
