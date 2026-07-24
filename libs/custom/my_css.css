@@ -48,7 +48,9 @@ body{font-size:1.5rem;line-height:1.65;color:#252525}
 .supporters{display:flex;flex-wrap:wrap;gap:1.2rem;margin-top:2.4rem}
 .supporters a{display:flex;align-items:center;gap:.8rem;padding:.8rem 1.2rem;border:1px solid #e5e5e5;color:#555;font-size:1.3rem;text-decoration:none}
 .supporters a:hover{border-color:#bbb;color:#222}
-.supporters span{color:#222;font-size:1.45rem;font-weight:600}
+.supporters i{width:2.2rem;color:#444;font-size:1.8rem;text-align:center}
+.supporters span{color:#555;font-size:1.35rem}
+.supporters strong{margin-right:.5rem;color:#222;font-size:1.45rem;font-weight:600}
 
 @media(max-width:749px){
   .header{margin:3rem 0 1rem;padding:0}
