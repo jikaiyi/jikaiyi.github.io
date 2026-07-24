@@ -38,6 +38,17 @@ body{font-size:1.5rem;line-height:1.65;color:#252525}
 .publication-group{margin:3.5rem 0 1.8rem!important;font-size:1.75rem!important;font-weight:600!important;line-height:1.4!important;color:#555}
 #pub-highlighted .publication-group:first-child{margin-top:2.2rem!important}
 .tab-nav .button{letter-spacing:.08rem}
+.support-intro{max-width:62rem;margin-bottom:2.6rem}
+.support-list{display:grid;gap:1.2rem}
+.support-item{padding:1.6rem 1.8rem;border:1px solid #e5e5e5;border-radius:.3rem}
+.support-item a{display:block;margin:.35rem 0 .5rem;color:#222;font-size:1.55rem;font-weight:600;line-height:1.45;text-decoration:none}
+.support-item a:hover{color:#33c3f0}
+.support-item p{margin:0;color:#666;font-size:1.3rem}
+.support-meta{color:#777;font-size:1.15rem;font-weight:600;letter-spacing:.08rem;text-transform:uppercase}
+.supporters{display:flex;flex-wrap:wrap;gap:1.2rem;margin-top:2.4rem}
+.supporters a{display:flex;align-items:center;gap:.8rem;padding:.8rem 1.2rem;border:1px solid #e5e5e5;color:#555;font-size:1.3rem;text-decoration:none}
+.supporters a:hover{border-color:#bbb;color:#222}
+.supporters span{color:#222;font-size:1.45rem;font-weight:600}
 
 @media(max-width:749px){
   .header{margin:3rem 0 1rem;padding:0}
@@ -45,4 +56,6 @@ body{font-size:1.5rem;line-height:1.65;color:#252525}
   .main-description h1{font-size:4.2rem}
   .docs-section{padding:3.5rem 0}
   .research-grid{grid-template-columns:1fr;gap:2.8rem}
+  .support-item{padding:1.4rem}
+  .supporters{display:grid}
 }
