@@ -41,7 +41,6 @@ body{font-size:1.5rem;line-height:1.65;color:#252525}
 .publication-group-icon{display:inline-flex;align-items:center;gap:.25rem;margin-right:.65rem}
 .publication-group i{color:#8fa3b5;font-size:1.5rem}
 .publication-group i.fa-robot{color:#9a8eae}
-.publication-group i.efficiency-icon{color:#c2a567;font-size:1.05rem}
 .publication-group i.fa-infinity{color:#aa9b7e}
 #pub-highlighted .publication-group:first-child{margin-top:2.2rem!important}
 .tab-nav .button{letter-spacing:.08rem}
