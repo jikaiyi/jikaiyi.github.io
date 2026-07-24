@@ -38,6 +38,9 @@ body{font-size:1.5rem;line-height:1.65;color:#252525}
 .paper .title b{font-weight:600}
 .paper p{line-height:1.55}
 .publication-group{margin:3.5rem 0 1.8rem!important;font-size:1.75rem!important;font-weight:600!important;line-height:1.4!important;color:#555}
+.publication-group i{margin-right:.65rem;color:#536d8a;font-size:1.55rem}
+.publication-group i.fa-brain{color:#6b5f8f}
+.publication-group i.fa-square-root-variable{color:#7b6744}
 #pub-highlighted .publication-group:first-child{margin-top:2.2rem!important}
 .tab-nav .button{letter-spacing:.08rem}
 .support-intro{max-width:62rem;margin-bottom:2.6rem}
