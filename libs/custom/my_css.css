@@ -51,16 +51,12 @@ body{font-size:1.5rem;line-height:1.65;color:#252525}
 .support-item a:hover{color:#33c3f0}
 .support-item p{margin:0;color:#666;font-size:1.3rem}
 .support-meta{color:#536d8a;font-size:1.15rem;font-weight:600;letter-spacing:.08rem;text-transform:uppercase}
-.supporters{display:flex;flex-wrap:wrap;gap:1.2rem;margin-top:2.4rem}
-.supporters a{display:flex;align-items:center;gap:.8rem;padding:.8rem 1.2rem;border:1px solid #e5e5e5;color:#555;font-size:1.3rem;text-decoration:none}
-.supporters a:hover{border-color:#bbb;color:#222}
-.supporters i{width:2.2rem;color:#444;font-size:1.8rem;text-align:center}
-.supporters span{color:#555;font-size:1.35rem}
-.supporters strong{margin-right:.5rem;color:#222;font-size:1.45rem;font-weight:600}
-.supporters a[href*="nsf.gov"]{border-left:3px solid #2f6fa3}
-.supporters a[href*="nsf.gov"] i,.supporters a[href*="nsf.gov"] strong{color:#2f6fa3}
-.supporters a[href*="buffalo.edu"]{border-left:3px solid #005bbb}
-.supporters a[href*="buffalo.edu"] i,.supporters a[href*="buffalo.edu"] strong{color:#005bbb}
+.supporters{display:flex;align-items:center;flex-wrap:wrap;gap:2.5rem;margin-top:2.4rem}
+.sponsor-logo{display:block;border:0;text-decoration:none;opacity:.94;transition:opacity .18s ease}
+.sponsor-logo:hover{opacity:1}
+.sponsor-logo span{display:block;background-image:url("../../assets/logos/research-sponsors.png");background-repeat:no-repeat}
+.sponsor-logo-nsf span{width:13rem;height:13rem;background-size:39.7rem 13rem;background-position:-1.4rem -.4rem}
+.sponsor-logo-ub span{width:25rem;height:9.2rem;background-size:66.4rem 21.7rem;background-position:-24.9rem -5.5rem}
 
 @media(max-width:749px){
   .header{margin:3rem 0 1rem;padding:0}
@@ -69,5 +65,7 @@ body{font-size:1.5rem;line-height:1.65;color:#252525}
   .docs-section{padding:3.5rem 0}
   .research-grid{grid-template-columns:1fr;gap:2.8rem}
   .support-item{padding:1.4rem}
-  .supporters{display:grid}
+  .supporters{gap:1.8rem}
+  .sponsor-logo-nsf span{width:10rem;height:10rem;background-size:30.6rem 10rem;background-position:-1.1rem -.3rem}
+  .sponsor-logo-ub span{width:21rem;height:7.8rem;background-size:56.3rem 18.4rem;background-position:-21.1rem -4.7rem}
 }
