@@ -92,7 +92,10 @@ title: Home
       {% for group in highlighted_groups %}
         {% assign group_parts = group | split: "|" %}
         <h5 class="publication-group">
-          <i class="fa-solid {{ group_parts[2] }}" aria-hidden="true"></i>
+          <span class="publication-group-icon" aria-hidden="true">
+            <i class="fa-solid {{ group_parts[2] }}"></i>
+            {% if group_parts[1] == "llm" %}<i class="fa-solid fa-bolt efficiency-icon"></i>{% endif %}
+          </span>
           {{ group_parts[0] }}
         </h5>
         {% for publication in site.data.kaiyi_publications %}
