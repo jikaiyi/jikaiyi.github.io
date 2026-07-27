@@ -2,10 +2,38 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>{{ site.data.main_info.name }} | {{ page.title }}</title>
-  <meta name="description" content="Kaiyi Ji">
+  <title>{% if page.title == "Home" %}Kaiyi Ji | University at Buffalo{% else %}{{ site.data.main_info.name }} | {{ page.title }}{% endif %}</title>
+  <meta name="description" content="{{ site.description }}">
   <meta name="author" content="Kaiyi Ji">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | absolute_url }}">
+  <meta property="og:type" content="profile">
+  <meta property="og:title" content="Kaiyi Ji | University at Buffalo">
+  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:url" content="{{ page.url | replace: 'index.html', '' | absolute_url }}">
+  <meta property="og:image" content="{{ site.data.main_info.profile_pic | absolute_url }}">
+  <meta property="profile:first_name" content="Kaiyi">
+  <meta property="profile:last_name" content="Ji">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Kaiyi Ji",
+    "url": "https://jikaiyi.github.io/",
+    "image": "https://jikaiyi.github.io/assets/profile-pics/kaiyi.jpeg",
+    "jobTitle": "Assistant Professor of Computer Science and Engineering",
+    "affiliation": {
+      "@type": "CollegeOrUniversity",
+      "name": "University at Buffalo",
+      "url": "https://www.buffalo.edu/"
+    },
+    "sameAs": [
+      "{{ site.data.main_info.google_scholar }}",
+      "{{ site.data.main_info.github }}"
+    ]
+  }
+  </script>
   <link href="https://fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
   <link rel="stylesheet" href="{{ '/libs/external/skeleton/normalize.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/libs/external/skeleton/skeleton.css' | relative_url }}">
