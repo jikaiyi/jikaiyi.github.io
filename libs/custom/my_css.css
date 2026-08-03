@@ -30,6 +30,11 @@ body{font-size:1.5rem;line-height:1.65;color:#252525}
 .representative-works a,.representative-works span{display:inline-block;padding:.3rem .75rem;border-radius:2rem;background:#f0ebf5;color:#51436b;font-size:1.05rem;font-weight:500;line-height:1.45;text-decoration:none}
 .representative-works a:hover{background:#e5dced;color:#332746}
 .representative-works span{background:#f2f2f2;color:#888}
+.representative-works a.work-library{background:#eaf1f8;color:#3d5f80}
+.representative-works a.work-library:hover{background:#dce8f3;color:#294863}
+.representative-works a.work-library-robotics{background:#e9f3ef;color:#3f6a5a}
+.representative-works a.work-library-robotics:hover{background:#dcece5;color:#2e5144}
+.representative-works .work-library i{margin-right:.35rem;font-size:.95em}
 .news-scroll{max-height:34rem;overflow-y:auto;padding-right:1rem;border-top:1px solid #e6e6e6;border-bottom:1px solid #e6e6e6;scrollbar-width:thin;scrollbar-color:#b5b5b5 transparent;overscroll-behavior:contain}
 .news-scroll:focus{outline:1px solid #bbb;outline-offset:.5rem}
 .news-scroll ul{list-style:none;margin:0;padding:0}
