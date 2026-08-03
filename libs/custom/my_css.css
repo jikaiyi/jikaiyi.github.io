@@ -35,7 +35,7 @@ body{font-size:1.5rem;line-height:1.65;color:#252525}
 .representative-works a.work-library-robotics{background:#e9f3ef;color:#3f6a5a}
 .representative-works a.work-library-robotics:hover{background:#dcece5;color:#2e5144}
 .representative-works .work-library i{margin-right:.35rem;font-size:.95em}
-.news-scroll{max-height:34rem;overflow-y:auto;padding-right:1rem;border-top:1px solid #e6e6e6;border-bottom:1px solid #e6e6e6;scrollbar-width:thin;scrollbar-color:#b5b5b5 transparent;overscroll-behavior:contain}
+.news-scroll{max-height:46rem;overflow-y:auto;padding-right:1rem;border-top:1px solid #e6e6e6;border-bottom:1px solid #e6e6e6;scrollbar-width:thin;scrollbar-color:#b5b5b5 transparent;overscroll-behavior:contain}
 .news-scroll:focus{outline:1px solid #bbb;outline-offset:.5rem}
 .news-scroll ul{list-style:none;margin:0;padding:0}
 .news-scroll li{margin:0;padding:1.35rem .5rem 1.35rem 0;border-bottom:1px solid #ededed;line-height:1.65}
@@ -76,6 +76,7 @@ body{font-size:1.5rem;line-height:1.65;color:#252525}
   .main-description h1{font-size:4.2rem}
   .docs-section{padding:3.5rem 0}
   .research-grid{grid-template-columns:1fr;gap:2.8rem}
+  .news-scroll{max-height:38rem}
   .support-item{padding:1.4rem}
   .supporters{gap:1.8rem}
   .sponsor-logo-nsf span{width:10rem;height:10rem;background-size:30.6rem 10rem;background-position:-1.1rem -.3rem}
