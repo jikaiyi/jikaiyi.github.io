@@ -59,9 +59,9 @@ body{font-size:1.5rem;line-height:1.65;color:#252525}
 a.student-name:hover{color:#33c3f0}
 .tab-nav .button{letter-spacing:.08rem}
 .support-intro{max-width:62rem;margin-bottom:2.6rem}
-.support-list{display:grid;gap:1.2rem}
-.support-item{padding:1.6rem 1.8rem;border:1px solid #e5e5e5;border-left:3px solid #b8c8da;border-radius:.3rem}
-.support-item a{display:block;margin:.35rem 0 .5rem;color:#222;font-size:1.55rem;font-weight:600;line-height:1.45;text-decoration:none}
+.support-list{display:grid;gap:.8rem}
+.support-item{padding:1.05rem 1.5rem;border:1px solid #e5e5e5;border-left:3px solid #b8c8da;border-radius:.3rem}
+.support-item a{display:block;margin:.2rem 0 .3rem;color:#222;font-size:1.5rem;font-weight:600;line-height:1.35;text-decoration:none}
 .support-item a:hover{color:#33c3f0}
 .support-item p{margin:0;color:#666;font-size:1.3rem}
 .support-meta{color:#536d8a;font-size:1.15rem;font-weight:600;letter-spacing:.08rem;text-transform:uppercase}
@@ -79,7 +79,7 @@ a.student-name:hover{color:#33c3f0}
   .docs-section{padding:3.5rem 0}
   .research-grid{grid-template-columns:1fr;gap:2.8rem}
   .news-scroll{max-height:38rem}
-  .support-item{padding:1.4rem}
+  .support-item{padding:1rem 1.2rem}
   .supporters{gap:1.8rem}
   .sponsor-logo-nsf span{width:10rem;height:10rem;background-size:30.6rem 10rem;background-position:-1.1rem -.3rem}
   .sponsor-logo-ub span{width:21rem;height:7.8rem;background-size:56.3rem 18.4rem;background-position:-21.1rem -4.7rem}
