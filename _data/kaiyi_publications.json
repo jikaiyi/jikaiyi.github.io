@@ -24,15 +24,15 @@
   },
   {
     "code": "",
-    "details": "Chen Wang, Junyi Geng, Kaiyi Ji, Taimeng Fu. Book chapter in Artificial Intelligence: From Simulation to Reality, Wiley-IEEE Press, 2026.",
+    "details": "Chen Wang, Junyi Geng, Kaiyi Ji, Taimeng Fu. Chapter: Imperative Learning. Wiley-IEEE Press, 2026.",
     "highlighted": true,
     "paper": "https://www.google.com/books/edition/Artificial_Intelligence/ml7f0AEACAAJ?hl=en&kptab=overview",
     "recent": false,
-    "title": "Imperative Learning",
+    "title": "Artificial Intelligence: From Simulation to Reality",
     "highlight_group": "embodied-agentic",
     "year": "2026",
     "authors": "Chen Wang, Junyi Geng, Kaiyi Ji, Taimeng Fu.",
-    "venue": "Book chapter in Artificial Intelligence: From Simulation to Reality, Wiley-IEEE Press, 2026."
+    "venue": "Chapter: Imperative Learning. Wiley-IEEE Press, 2026."
   },
   {
     "code": "https://github.com/OptMN-Lab/LDC-MTL",
