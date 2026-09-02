@@ -26,10 +26,11 @@ title: Home
   <p class="research-overview">
     My research addresses a central question in fundamental AI: how can
     intelligent systems continually acquire, organize, and transfer knowledge
-    while adapting across tasks and objectives? I pursue this question through
-    principled learning frameworks for foundation models and embodied and
-    agentic intelligence, built on the mathematical foundations of bilevel and
-    multi-objective optimization. My work spans three interconnected directions:
+    while adapting across tasks, objectives, and environments? I pursue this
+    question through principled learning frameworks for foundation models,
+    agentic systems, and embodied intelligence, grounded in the mathematical
+    foundations of bilevel and multi-objective optimization. My work spans
+    three interconnected directions:
   </p>
 
   <div class="research-grid">
@@ -61,16 +62,16 @@ title: Home
     <div class="research-block">
       <p class="research-theme">
         <i class="fa-solid fa-robot" aria-hidden="true"></i>
-        Embodied and Agentic Intelligence
+        Agentic and Embodied Intelligence
       </p>
       <ul>
         <li>
-          Self-supervised learning frameworks for embodied and multi-agent
-          systems, including Imperative Learning, which uses bilevel
-          optimization to integrate neural perception, symbolic reasoning,
-          planning, and memory for robot autonomy, and self-organizing
-          decentralized agents that coordinate and adapt in changing
-          environments.
+          Learning and optimization frameworks for autonomous and multi-agent
+          systems that continually reason, coordinate, and adapt in changing
+          environments. This direction includes decentralized agent learning
+          and Imperative Learning, which uses bilevel optimization to integrate
+          neural perception, symbolic reasoning, planning, and memory for
+          embodied autonomy.
           <div class="representative-works" aria-label="Representative works">
             <a href="https://arxiv.org/pdf/2406.16087">IJRR ’25</a>
             <a class="work-library" href="https://www.google.com/books/edition/Artificial_Intelligence/ml7f0AEACAAJ?hl=en&amp;kptab=overview" aria-label="Imperative Learning chapter in Artificial Intelligence: From Simulation to Reality">
@@ -152,7 +153,7 @@ title: Home
 
   <div class="tab-content">
     <div class="tab-pane active" id="pub-highlighted">
-      {% assign highlighted_groups = "Adaptive Foundation Models|llm|fa-brain,Embodied and Agentic Intelligence|embodied-agentic|fa-robot,Bilevel and Multi-Objective Optimization|theory|fa-chart-line" | split: "," %}
+      {% assign highlighted_groups = "Adaptive Foundation Models|llm|fa-brain,Agentic and Embodied Intelligence|embodied-agentic|fa-robot,Bilevel and Multi-Objective Optimization|theory|fa-chart-line" | split: "," %}
       {% for group in highlighted_groups %}
         {% assign group_parts = group | split: "|" %}
         <h5 class="publication-group">
