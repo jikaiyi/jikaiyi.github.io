@@ -23,6 +23,18 @@
     "venue": "Submitted, 2026."
   },
   {
+    "code": "",
+    "details": "Chen Wang, Junyi Geng, Kaiyi Ji, Taimeng Fu. Book chapter in Artificial Intelligence: From Simulation to Reality, Wiley-IEEE Press, 2026.",
+    "highlighted": true,
+    "paper": "https://www.google.com/books/edition/Artificial_Intelligence/ml7f0AEACAAJ?hl=en&kptab=overview",
+    "recent": false,
+    "title": "Imperative Learning",
+    "highlight_group": "embodied-agentic",
+    "year": "2026",
+    "authors": "Chen Wang, Junyi Geng, Kaiyi Ji, Taimeng Fu.",
+    "venue": "Book chapter in Artificial Intelligence: From Simulation to Reality, Wiley-IEEE Press, 2026."
+  },
+  {
     "code": "https://github.com/OptMN-Lab/LDC-MTL",
     "details": "Peiyao Xiao, Chaosheng Dong, Shaofeng Zou, Kaiyi Ji. European Conference on Computer Vision (ECCV) 2026.",
     "highlighted": false,
@@ -197,7 +209,7 @@
     "paper": "https://arxiv.org/pdf/2406.16087",
     "recent": false,
     "title": "Imperative Learning: A Self-supervised Neural-Symbolic Learning Framework for Robot Autonomy",
-    "highlight_group": "multiple-objectives",
+    "highlight_group": "embodied-agentic",
     "year": "2025",
     "authors": "Chen Wang, Kaiyi Ji, Junyi Geng, Zhongqiang Ren, Taimeng Fu, Fan Yang, Yifan Guo, Haonan He, Xiangyu Chen, Zitong Zhan, Qiwei Du, Shaoshu Su, Bowen Li, Yuheng Qiu, Yi Du, Qihang Li, Yifan Yang, Xiao Lin, Zhipeng Zhao.",
     "venue": "The International Journal of Robotics Research (IJRR) 2025."
@@ -231,7 +243,7 @@
     "paper": "https://arxiv.org/pdf/2402.15638.pdf",
     "recent": false,
     "title": "Fair Resource Allocation in Multi-Task Learning",
-    "highlight_group": "multiple-objectives",
+    "highlight_group": "theory",
     "year": "2024",
     "authors": "Hao Ban and Kaiyi Ji.",
     "venue": "International Conference on Machine Learning (ICML) 2024."
@@ -276,7 +288,7 @@
     "paper": "https://arxiv.org/pdf/2305.18409.pdf",
     "recent": false,
     "title": "Direction-oriented Multi-objective Learning: Simple and Provable Stochastic Algorithms",
-    "highlight_group": "multiple-objectives",
+    "highlight_group": "theory",
     "year": "2023",
     "authors": "Peiyao Xiao*, Hao Ban*, Kaiyi Ji.",
     "venue": "Accepted by Conference on Neural Information Processing Systems (NeurIPS) 2023."
