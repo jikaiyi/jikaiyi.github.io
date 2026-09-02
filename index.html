@@ -27,9 +27,10 @@ title: Home
     My research addresses a central question in fundamental AI: how can
     intelligent systems continually acquire, organize, and transfer knowledge
     while adapting across tasks and objectives? I pursue this question through
-    principled learning frameworks for foundation models and embodied and
-    agentic intelligence, built on the mathematical foundations of bilevel and
-    multi-objective optimization. My work spans three interconnected directions:
+    principled learning frameworks for two complementary frontiers, foundation
+    models and embodied intelligence, built on a mathematical foundation of
+    bilevel and multi-objective optimization. My work spans three
+    interconnected directions:
   </p>
 
   <div class="research-grid">
@@ -40,12 +41,11 @@ title: Home
       </p>
       <ul>
         <li>
-          Principled methods for multi-task and continual adaptation of
-          foundation models, particularly large language models, through
-          selective parameter sharing, optimized subspaces, and
-          knowledge-preserving updates, with the goal of improving knowledge
-          transfer, reducing catastrophic forgetting, and balancing competing
-          objectives during post-training.
+          Principled methods for multi-task and continual adaptation of large
+          language models through selective parameter sharing, optimized
+          subspaces, and knowledge-preserving updates, with the goal of
+          improving knowledge transfer, reducing catastrophic forgetting, and
+          balancing competing objectives during post-training.
           <div class="representative-works" aria-label="Representative works">
             <a href="https://arxiv.org/pdf/2509.25414">ACL ’26</a>
             <a href="https://arxiv.org/pdf/2507.14725">GRID</a>
@@ -62,16 +62,14 @@ title: Home
     <div class="research-block">
       <p class="research-theme">
         <i class="fa-solid fa-robot" aria-hidden="true"></i>
-        Embodied and Agentic Intelligence
+        Embodied Intelligence
       </p>
       <ul>
         <li>
-          Self-supervised learning frameworks for embodied and multi-agent
-          systems, including Imperative Learning, which uses bilevel
-          optimization to integrate neural perception, symbolic reasoning,
-          planning, and memory for robot autonomy, and self-organizing
-          decentralized agents that coordinate and adapt in changing
-          environments.
+          Self-supervised learning frameworks for robot autonomy, including
+          Imperative Learning, which uses bilevel optimization to integrate
+          neural perception, symbolic reasoning, planning, and memory, toward
+          agents that improve through their own experience.
           <div class="representative-works" aria-label="Representative works">
             <a href="https://arxiv.org/pdf/2406.16087">IJRR ’25</a>
             <a class="work-library" href="https://www.google.com/books/edition/Artificial_Intelligence/ml7f0AEACAAJ?hl=en&amp;kptab=overview" aria-label="Imperative Learning chapter in Artificial Intelligence: From Simulation to Reality">
@@ -96,10 +94,10 @@ title: Home
       <ul>
         <li>
           Complexity lower bounds and nearly optimal algorithms for bilevel,
-          multi-objective, minimax, and distributed optimization, together with
-          multi-task, continual, and meta-learning methods for balancing
-          objectives, promoting fair resource allocation, and transferring
-          knowledge across heterogeneous tasks.
+          multi-objective, minimax, and distributed optimization, and the
+          multi-task, continual, and meta-learning methods built on them that
+          balance conflicting objectives, promote fair resource allocation, and
+          transfer knowledge across heterogeneous tasks.
           <div class="representative-works" aria-label="Representative works">
             <a href="https://arxiv.org/abs/2010.07962">ICML ’21</a>
             <a href="https://www.jmlr.org/papers/volume24/21-0949/21-0949.pdf">JMLR ’22</a>
@@ -153,7 +151,7 @@ title: Home
 
   <div class="tab-content">
     <div class="tab-pane active" id="pub-highlighted">
-      {% assign highlighted_groups = "Adaptive Foundation Models|llm|fa-brain,Embodied and Agentic Intelligence|embodied-agentic|fa-robot,Bilevel and Multi-Objective Optimization|theory|fa-chart-line" | split: "," %}
+      {% assign highlighted_groups = "Adaptive Foundation Models|llm|fa-brain,Embodied Intelligence|embodied-agentic|fa-robot,Bilevel and Multi-Objective Optimization|theory|fa-chart-line" | split: "," %}
       {% for group in highlighted_groups %}
         {% assign group_parts = group | split: "|" %}
         <h5 class="publication-group">
