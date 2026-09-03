@@ -64,6 +64,7 @@ body{font-size:1.5rem;line-height:1.65;color:#252525}
 .member-info .student-name{font-size:1.55rem;font-weight:600;margin-bottom:.2rem}
 .member-meta{font-size:1.3rem;color:#555}
 .member-interests{margin-top:.5rem;font-size:1.2rem;color:#777;line-height:1.45}
+.member-interests strong{color:#555;font-weight:600}
 @media(max-width:749px){.member-list{grid-template-columns:repeat(2,minmax(0,1fr));gap:1.2rem}.member{padding:1.6rem 1rem 1.4rem}.member-photo{max-width:none}}
 @media(max-width:480px){.member-list{grid-template-columns:1fr}}
 .student-name{font-size:1.55rem}
