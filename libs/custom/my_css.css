@@ -30,6 +30,9 @@ body{font-size:1.5rem;line-height:1.65;color:#252525}
 .representative-works a,.representative-works span{display:inline-block;padding:.3rem .75rem;border-radius:2rem;background:#f0ebf5;color:#51436b;font-size:1.05rem;font-weight:500;line-height:1.45;text-decoration:none}
 .representative-works a:hover{background:#e5dced;color:#332746}
 .representative-works span{background:#f2f2f2;color:#888}
+.representative-works a.work-highlight{background:#fbe9e1;color:#a8431d;font-weight:600}
+.representative-works a.work-highlight:hover{background:#f6d9cc;color:#7f3011}
+.representative-works a.work-highlight i{font-size:.85em;margin-right:.15rem}
 .representative-works a.work-library{background:#eaf1f8;color:#3d5f80}
 .representative-works a.work-library:hover{background:#dce8f3;color:#294863}
 .representative-works a.work-library-robotics{background:#e9f3ef;color:#3f6a5a}
