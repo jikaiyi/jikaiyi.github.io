@@ -34,27 +34,22 @@ title: Home
   <h5>Research Interests</h5>
 
   <p class="research-overview">
-    My research studies how intelligent systems can continually learn, adapt,
-    and transfer knowledge across tasks, objectives, and environments. I
-    develop learning and optimization methods for foundation models, agentic
-    systems, and embodied intelligence, grounded in the mathematical
-    foundations of bilevel and multi-objective optimization. My work is
-    organized around three connected directions:
+    Our goal is to develop principled optimization algorithms that advance
+    artificial intelligence, embodied and robotic systems, and machine
+    learning, bridging the gap between theoretical foundations and real-world
+    applications. Our work is organized around three connected directions:
   </p>
 
   <div class="research-grid">
     <div class="research-block">
       <p class="research-theme">
         <i class="fa-solid fa-brain" aria-hidden="true"></i>
-        Adaptive Foundation Models
+        Large Foundation Models
       </p>
       <ul>
         <li>
-          Principled methods for multi-task and continual adaptation of
-          foundation models through selective parameter sharing, optimized
-          subspaces, and knowledge-preserving updates, with the goal of
-          improving knowledge transfer, reducing catastrophic forgetting, and
-          balancing competing objectives during post-training.
+          LLM agents, generative recommendation, continual adaptation,
+          parameter-efficient fine-tuning, and multi-objective alignment.
           <div class="representative-works" aria-label="Representative works">
             <a href="https://arxiv.org/pdf/2509.25414">ACL ’26</a>
             <a href="https://arxiv.org/pdf/2507.14725">GRID</a>
@@ -71,15 +66,13 @@ title: Home
     <div class="research-block">
       <p class="research-theme">
         <i class="fa-solid fa-robot" aria-hidden="true"></i>
-        Agentic and Embodied Intelligence
+        Embodied Intelligence
       </p>
       <ul>
         <li>
-          Self-organizing, decentralized multi-agent agentic systems in which
-          agents coordinate, adapt, and share knowledge without a central
-          orchestrator, and Imperative Learning, a self-supervised
-          neural-symbolic framework that integrates perception, reasoning,
-          planning, and control for robot autonomy.
+          Neuro-symbolic robot learning, long-horizon robotic tasks, multilevel
+          optimization over hybrid discrete–continuous spaces, and
+          derivative-free methods for control.
           <div class="representative-works" aria-label="Representative works">
             <a href="https://arxiv.org/pdf/2406.16087">IJRR ’25</a>
             <a class="work-library" href="https://www.google.com/books/edition/Artificial_Intelligence/ml7f0AEACAAJ?hl=en&amp;kptab=overview" aria-label="Imperative Learning chapter in Artificial Intelligence: From Simulation to Reality">
@@ -99,15 +92,12 @@ title: Home
     <div class="research-block">
       <p class="research-theme">
         <i class="fa-solid fa-chart-line" aria-hidden="true"></i>
-        Bilevel and Multi-Objective Optimization
+        Theoretical Foundations
       </p>
       <ul>
         <li>
-          Scalable, provably efficient algorithms and complexity lower bounds
-          for bilevel and multi-objective optimization, which provide the
-          foundation for multi-task, continual, and meta-learning methods that
-          balance conflicting objectives, allocate resources fairly, and
-          transfer knowledge across heterogeneous tasks.
+          First- and zeroth-order optimization, with recent emphasis on bilevel
+          and multi-objective optimization.
           <div class="representative-works" aria-label="Representative works">
             <a href="https://arxiv.org/abs/2010.07962">ICML ’21</a>
             <a href="https://www.jmlr.org/papers/volume24/21-0949/21-0949.pdf">JMLR ’22</a>
@@ -161,7 +151,7 @@ title: Home
 
   <div class="tab-content">
     <div class="tab-pane active" id="pub-highlighted">
-      {% assign highlighted_groups = "Adaptive Foundation Models|llm|fa-brain,Agentic and Embodied Intelligence|embodied-agentic|fa-robot,Bilevel and Multi-Objective Optimization|theory|fa-chart-line" | split: "," %}
+      {% assign highlighted_groups = "Large Foundation Models|llm|fa-brain,Embodied Intelligence|embodied-agentic|fa-robot,Theoretical Foundations|theory|fa-chart-line" | split: "," %}
       {% for group in highlighted_groups %}
         {% assign group_parts = group | split: "|" %}
         <h5 class="publication-group">
