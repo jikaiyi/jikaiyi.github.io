@@ -48,7 +48,7 @@ body{font-size:1.5rem;line-height:1.65;color:#252525}
 .news-scroll li+li{border-top:1px solid #f0f0f0}
 .news-scroll li>strong:first-child{display:block;color:#222;font-size:1.4rem;font-weight:700;line-height:1.6;white-space:nowrap}
 .news-scroll li strong:not(:first-child){color:#222;font-weight:600}
-.news-scroll li.news-highlight strong:not(:first-child){color:#c2552a}
+.news-scroll li.news-highlight strong:not(:first-child){color:#3f75a8}
 .news-scroll a{color:#3f75a8;text-decoration:none}
 .news-scroll a:hover{color:#33c3f0;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:.2rem}
 .news-scroll::-webkit-scrollbar{width:.7rem}
