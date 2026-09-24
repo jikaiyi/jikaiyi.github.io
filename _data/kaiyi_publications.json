@@ -14,13 +14,14 @@
   {
     "code": "",
     "details": "Sayantan Pal, Kaiyi Ji, Rohini K Srihari. Conference on Neural Information Processing Systems (NeurIPS) 2026.",
-    "highlighted": false,
+    "highlighted": true,
     "paper": "",
     "recent": false,
     "title": "DICE: Decoupling Capability from Intervention Necessity in LLM Tutoring",
     "year": "2026",
     "authors": "Sayantan Pal, Kaiyi Ji, Rohini K Srihari.",
-    "venue": "Conference on Neural Information Processing Systems (NeurIPS) 2026."
+    "venue": "Conference on Neural Information Processing Systems (NeurIPS) 2026.",
+    "highlight_group": "llm"
   },
   {
     "code": "",
