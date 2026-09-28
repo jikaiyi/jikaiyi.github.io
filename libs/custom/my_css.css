@@ -30,14 +30,8 @@ body{font-size:1.5rem;line-height:1.65;color:#252525}
 .representative-works a,.representative-works span{display:inline-block;padding:.3rem .75rem;border-radius:2rem;background:#f0ebf5;color:#51436b;font-size:1.05rem;font-weight:500;line-height:1.45;text-decoration:none}
 .representative-works a:hover{background:#e5dced;color:#332746}
 .representative-works span{background:#f2f2f2;color:#888}
-.representative-works a.work-highlight{background:#fbe9e1;color:#a8431d;font-weight:600}
-.representative-works a.work-highlight:hover{background:#f6d9cc;color:#7f3011}
-.representative-works a.work-highlight i{font-size:.85em;margin-right:.15rem}
-.representative-works a.work-library{background:#eaf1f8;color:#3d5f80}
-.representative-works a.work-library:hover{background:#dce8f3;color:#294863}
-.representative-works a.work-library-robotics{background:#e9f3ef;color:#3f6a5a}
-.representative-works a.work-library-robotics:hover{background:#dcece5;color:#2e5144}
-.representative-works .work-library i{margin-right:.35rem;font-size:.95em}
+.representative-works a i{margin-right:.35rem;font-size:.9em;opacity:.85}
+.representative-works a.work-highlight{font-weight:600}
 .opening-note{margin:2.4rem 0 .5rem;padding:1.3rem 1.6rem;border:1px solid #ecd9cf;border-left:3px solid #c2552a;border-radius:.3rem;background:#fdf7f4}
 .opening-note p{margin:0;font-size:1.45rem;line-height:1.6}
 .opening-note strong{color:#c2552a}
