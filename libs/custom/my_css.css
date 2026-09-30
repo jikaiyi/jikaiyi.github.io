@@ -31,7 +31,6 @@ body{font-size:1.5rem;line-height:1.65;color:#252525}
 .representative-works a:hover{background:#e5dced;color:#332746}
 .representative-works span{background:#f2f2f2;color:#888}
 .representative-works a i{margin-right:.35rem;font-size:.9em;opacity:.85}
-.representative-works a.work-highlight{font-weight:600}
 .opening-note{margin:2.4rem 0 .5rem;padding:1.3rem 1.6rem;border:1px solid #ecd9cf;border-left:3px solid #c2552a;border-radius:.3rem;background:#fdf7f4}
 .opening-note p{margin:0;font-size:1.45rem;line-height:1.6}
 .opening-note strong{color:#c2552a}
