@@ -103,3 +103,6 @@ a.student-name:hover{color:#33c3f0}
   .sponsor-logo-ub span{width:21rem;height:7.8rem;background-size:56.3rem 18.4rem;background-position:-21.1rem -4.7rem}
 }
 .course-topics{color:#777;font-size:.92em}
+#awards li.award-highlight::marker{content:"\f005  ";font-family:"Font Awesome 6 Free";font-weight:900;color:#c2552a;font-size:.85em}
+#awards li.award-highlight a{color:inherit;text-decoration:none}
+#awards li.award-highlight a:hover{color:#33c3f0}
