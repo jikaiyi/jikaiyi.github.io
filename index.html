@@ -96,13 +96,15 @@ title: Home
     <div class="research-block">
       <p class="research-theme">
         <i class="fa-solid fa-chart-line" aria-hidden="true"></i>
-        Theoretical Foundations
+        Optimization Foundations
       </p>
       <ul>
         <li>
           First-order, zeroth-order, and adaptive optimization, with a recent
           focus on bilevel and multi-objective optimization, including provably
-          efficient algorithms and complexity lower bounds.
+          efficient algorithms and complexity lower bounds, which serve as
+          building blocks for continual and multi-objective learning in LLMs and
+          robotics.
           <div class="representative-works" aria-label="Representative works">
             <a href="https://arxiv.org/abs/2010.07962">ICML ’21</a>
             <a href="https://arxiv.org/pdf/2305.18409.pdf">NeurIPS ’23</a>
@@ -156,7 +158,7 @@ title: Home
 
   <div class="tab-content">
     <div class="tab-pane active" id="pub-highlighted">
-      {% assign highlighted_groups = "Large Foundation Models|llm|fa-brain,Embodied Intelligence|embodied-agentic|fa-robot,Theoretical Foundations|theory|fa-chart-line" | split: "," %}
+      {% assign highlighted_groups = "Large Foundation Models|llm|fa-brain,Embodied Intelligence|embodied-agentic|fa-robot,Optimization Foundations|theory|fa-chart-line" | split: "," %}
       {% for group in highlighted_groups %}
         {% assign group_parts = group | split: "|" %}
         <h5 class="publication-group">
