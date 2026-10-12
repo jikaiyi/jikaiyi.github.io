@@ -417,6 +417,18 @@
     "venue": "Conference on Uncertainty in Artificial Intelligence (UAI) 2022."
   },
   {
+    "code": "",
+    "details": "Yan Zhang, Yi Zhou, Kaiyi Ji, Michael M. Zavlanos Automatica 2022.",
+    "highlighted": true,
+    "paper": "https://arxiv.org/abs/2006.10820",
+    "recent": false,
+    "title": "A New One-Point Residual-Feedback Oracle For Black-Box Learning and Control",
+    "year": "2022",
+    "authors": "Yan Zhang, Yi Zhou, Kaiyi Ji, Michael M. Zavlanos",
+    "venue": "Automatica 2022.",
+    "highlight_group": "embodied-agentic"
+  },
+  {
     "code": "https://github.com/JunjieYang97/MRVRBO",
     "details": "Junjie Yang, Kaiyi Ji, Yingbin Liang Conference on Neural Information Processing Systems (NeurIPS) 2021. (Spotlight, 3% acceptance rate)",
     "highlighted": false,
@@ -438,18 +450,6 @@
     "year": "2021",
     "authors": "Kaiyi Ji, Junjie Yang, Yingbin Liang",
     "venue": "International Conference on Machine Learning (ICML) 2021."
-  },
-  {
-    "code": "",
-    "details": "Yan Zhang, Yi Zhou, Kaiyi Ji, Michael M. Zavlanos Automatica 2021.",
-    "highlighted": true,
-    "paper": "https://arxiv.org/abs/2006.10820",
-    "recent": false,
-    "title": "A New One-Point Residual-Feedback Oracle For Black-Box Learning and Control",
-    "year": "2021",
-    "authors": "Yan Zhang, Yi Zhou, Kaiyi Ji, Michael M. Zavlanos",
-    "venue": "Automatica 2021.",
-    "highlight_group": "embodied-agentic"
   },
   {
     "code": "",
