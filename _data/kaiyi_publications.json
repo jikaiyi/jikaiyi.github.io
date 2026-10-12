@@ -14,14 +14,13 @@
   {
     "code": "",
     "details": "Sayantan Pal, Kaiyi Ji, Rohini K Srihari. Conference on Neural Information Processing Systems (NeurIPS) 2026.",
-    "highlighted": true,
+    "highlighted": false,
     "paper": "https://arxiv.org/pdf/2610.04825",
     "recent": false,
     "title": "DICE: Decoupling Capability from Intervention Necessity in LLM Tutoring",
     "year": "2026",
     "authors": "Sayantan Pal, Kaiyi Ji, Rohini K Srihari.",
-    "venue": "Conference on Neural Information Processing Systems (NeurIPS) 2026.",
-    "highlight_group": "llm"
+    "venue": "Conference on Neural Information Processing Systems (NeurIPS) 2026."
   },
   {
     "code": "",
@@ -443,13 +442,14 @@
   {
     "code": "",
     "details": "Yan Zhang, Yi Zhou, Kaiyi Ji, Michael M. Zavlanos Automatica 2021.",
-    "highlighted": false,
+    "highlighted": true,
     "paper": "https://arxiv.org/abs/2006.10820",
     "recent": false,
     "title": "A New One-Point Residual-Feedback Oracle For Black-Box Learning and Control",
     "year": "2021",
     "authors": "Yan Zhang, Yi Zhou, Kaiyi Ji, Michael M. Zavlanos",
-    "venue": "Automatica 2021."
+    "venue": "Automatica 2021.",
+    "highlight_group": "embodied-agentic"
   },
   {
     "code": "",
