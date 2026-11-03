@@ -35,32 +35,29 @@ title: Home
   <h5>Research Interests</h5>
 
   <p class="research-overview">
-    My research develops learning and optimization methods for AI systems, from
-    large foundation models and agents to robots. I study both scalable algorithms and the
-    theory behind them, in three connected directions:
+    My research develops scalable optimization methods for machine learning,
+    with a focus on large language models (LLMs), agents, and robots, in three
+    directions:
   </p>
 
   <div class="research-grid">
     <div class="research-block">
       <p class="research-theme">
-        <i class="fa-solid fa-brain" aria-hidden="true"></i>
-        Large Foundation Models
+        <i class="fa-solid fa-chart-line" aria-hidden="true"></i>
+        Optimization Foundations for LLMs with Multiple Objectives
       </p>
       <ul>
         <li>
-          Continual learning for LLMs, including parameter-efficient adaptation,
-          prompt optimization that mitigates forgetting in post-training, and
-          multi-step retrieval that provides long-context memory over millions
-          of tokens, with extensions to LLM agents and generative
-          recommendation.
+          Multi-objective and bilevel algorithms for training models and agents that
+          balance several goals, such as helpfulness, safety, and accuracy, with
+          applications to LLM alignment, multi-task learning, and learning to
+          rank.
           <div class="representative-works" aria-label="Representative works">
-            <a href="https://arxiv.org/pdf/2509.25414">ACL ’26</a>
-            <a href="https://arxiv.org/pdf/2606.01379">ICML ’26</a>
-            <a href="https://arxiv.org/pdf/2502.08585">ECCV ’26</a>
-            <a href="https://arxiv.org/pdf/2610.04825" title="DICE: Decoupling Capability from Intervention Necessity in LLM Tutoring">NeurIPS ’26</a>
-            <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2622696" aria-label="NSF SODA project">
-              <i class="fa-solid fa-network-wired" aria-hidden="true"></i> NSF SODA Grant
-            </a>
+            <a href="https://arxiv.org/abs/2010.07962">ICML ’21</a>
+            <a href="https://arxiv.org/pdf/2305.18409.pdf">NeurIPS ’23</a>
+            <a href="https://arxiv.org/pdf/2402.15638.pdf">ICML ’24</a>
+            <a href="https://arxiv.org/pdf/2410.05140">ICLR ’25</a>
+            <a class="work-highlight" href="https://arxiv.org/pdf/2511.22331"><i class="fa-solid fa-star" aria-hidden="true"></i> Nested-Chain ’26</a>
           </div>
         </li>
       </ul>
@@ -69,14 +66,13 @@ title: Home
     <div class="research-block">
       <p class="research-theme">
         <i class="fa-solid fa-robot" aria-hidden="true"></i>
-        Embodied Intelligence
+        Neuro-Symbolic Robot Learning
       </p>
       <ul>
         <li>
-          Neuro-symbolic robot learning for long-horizon tasks, centered on
-          Imperative Learning, which couples neural perception with symbolic
-          planners and solvers through multilevel optimization over hybrid
-          discrete–continuous spaces, and derivative-free methods for control.
+          Training neural networks through symbolic planners and solvers, so that
+          robots learn from their own experience with fewer labels while
+          respecting physical and logical constraints.
           <div class="representative-works" aria-label="Representative works">
             <a href="https://arxiv.org/abs/2006.10820">Automatica ’22</a>
             <a href="https://ieeexplore.ieee.org/document/10480627">TAC ’24</a>
@@ -94,22 +90,22 @@ title: Home
 
     <div class="research-block">
       <p class="research-theme">
-        <i class="fa-solid fa-chart-line" aria-hidden="true"></i>
-        Optimization Foundations
+        <i class="fa-solid fa-brain" aria-hidden="true"></i>
+        Continual Learning
       </p>
       <ul>
         <li>
-          First-order, zeroth-order, and adaptive optimization, with a recent
-          focus on bilevel and multi-objective optimization, including provably
-          efficient algorithms and complexity lower bounds which serve as
-          building blocks for the methods developed in the two directions
-          above.
+          Methods that let LLMs and agents adapt to new tasks and domains while
+          keeping what they have already learned, including fine-tuning without
+          forgetting and long-context memory through multi-step retrieval.
           <div class="representative-works" aria-label="Representative works">
-            <a href="https://arxiv.org/abs/2010.07962">ICML ’21</a>
-            <a href="https://arxiv.org/pdf/2305.18409.pdf">NeurIPS ’23</a>
-            <a href="https://arxiv.org/pdf/2402.15638.pdf">ICML ’24</a>
-            <a href="https://arxiv.org/pdf/2410.05140">ICLR ’25</a>
-            <a class="work-highlight" href="https://arxiv.org/pdf/2511.22331"><i class="fa-solid fa-star" aria-hidden="true"></i> Nested-Chain ’26</a>
+            <a href="https://arxiv.org/pdf/2509.25414">ACL ’26</a>
+            <a href="https://arxiv.org/pdf/2606.01379">ICML ’26</a>
+            <a href="https://arxiv.org/pdf/2502.08585">ECCV ’26</a>
+            <a href="https://arxiv.org/pdf/2610.04825" title="DICE: Decoupling Capability from Intervention Necessity in LLM Tutoring">NeurIPS ’26</a>
+            <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2622696" aria-label="NSF SODA project">
+              <i class="fa-solid fa-network-wired" aria-hidden="true"></i> NSF SODA Grant
+            </a>
           </div>
         </li>
       </ul>
@@ -158,7 +154,7 @@ title: Home
 
   <div class="tab-content">
     <div class="tab-pane active" id="pub-highlighted">
-      {% assign highlighted_groups = "Large Foundation Models|llm|fa-brain,Embodied Intelligence|embodied-agentic|fa-robot,Optimization Foundations|theory|fa-chart-line" | split: "," %}
+      {% assign highlighted_groups = "Optimization Foundations for LLMs with Multiple Objectives|theory|fa-chart-line,Neuro-Symbolic Robot Learning|embodied-agentic|fa-robot,Continual Learning|llm|fa-brain" | split: "," %}
       {% for group in highlighted_groups %}
         {% assign group_parts = group | split: "|" %}
         <h5 class="publication-group">
