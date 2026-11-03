@@ -43,28 +43,6 @@ title: Home
   <div class="research-grid">
     <div class="research-block">
       <p class="research-theme">
-        <i class="fa-solid fa-chart-line" aria-hidden="true"></i>
-        Optimization Foundations
-      </p>
-      <ul>
-        <li>
-          Multi-objective and bilevel algorithms for training models and agents
-          that balance competing goals such as helpfulness, safety, and accuracy,
-          with applications to LLM alignment, multi-task learning, and learning to
-          rank.
-          <div class="representative-works" aria-label="Representative works">
-            <a href="https://arxiv.org/abs/2010.07962">ICML ’21</a>
-            <a href="https://arxiv.org/pdf/2305.18409.pdf">NeurIPS ’23</a>
-            <a href="https://arxiv.org/pdf/2402.15638.pdf">ICML ’24</a>
-            <a href="https://arxiv.org/pdf/2410.05140">ICLR ’25</a>
-            <a class="work-highlight" href="https://arxiv.org/pdf/2511.22331"><i class="fa-solid fa-star" aria-hidden="true"></i> Nested-Chain ’26</a>
-          </div>
-        </li>
-      </ul>
-    </div>
-
-    <div class="research-block">
-      <p class="research-theme">
         <i class="fa-solid fa-robot" aria-hidden="true"></i>
         Embodied Intelligence
       </p>
@@ -107,6 +85,28 @@ title: Home
             <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2622696" aria-label="NSF SODA project">
               <i class="fa-solid fa-network-wired" aria-hidden="true"></i> NSF SODA Grant
             </a>
+          </div>
+        </li>
+      </ul>
+    </div>
+
+    <div class="research-block">
+      <p class="research-theme">
+        <i class="fa-solid fa-chart-line" aria-hidden="true"></i>
+        Optimization Foundations
+      </p>
+      <ul>
+        <li>
+          Multi-objective and bilevel algorithms for training models and agents
+          that balance competing goals such as helpfulness, safety, and accuracy,
+          with applications to LLM alignment, multi-task learning, and learning to
+          rank.
+          <div class="representative-works" aria-label="Representative works">
+            <a href="https://arxiv.org/abs/2010.07962">ICML ’21</a>
+            <a href="https://arxiv.org/pdf/2305.18409.pdf">NeurIPS ’23</a>
+            <a href="https://arxiv.org/pdf/2402.15638.pdf">ICML ’24</a>
+            <a href="https://arxiv.org/pdf/2410.05140">ICLR ’25</a>
+            <a class="work-highlight" href="https://arxiv.org/pdf/2511.22331"><i class="fa-solid fa-star" aria-hidden="true"></i> Nested-Chain ’26</a>
           </div>
         </li>
       </ul>
@@ -156,7 +156,7 @@ title: Home
 
   <div class="tab-content">
     <div class="tab-pane active" id="pub-highlighted">
-      {% assign highlighted_groups = "Optimization Foundations|theory|fa-chart-line,Embodied Intelligence|embodied-agentic|fa-robot,Continual Learning|llm|fa-brain" | split: "," %}
+      {% assign highlighted_groups = "Embodied Intelligence|embodied-agentic|fa-robot,Continual Learning|llm|fa-brain,Optimization Foundations|theory|fa-chart-line" | split: "," %}
       {% for group in highlighted_groups %}
         {% assign group_parts = group | split: "|" %}
         <h5 class="publication-group">
