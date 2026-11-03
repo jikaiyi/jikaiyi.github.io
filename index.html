@@ -44,13 +44,13 @@ title: Home
     <div class="research-block">
       <p class="research-theme">
         <i class="fa-solid fa-chart-line" aria-hidden="true"></i>
-        Optimization Foundations for LLMs with Multiple Objectives
+        Multi-Objective Optimization
       </p>
       <ul>
         <li>
-          Multi-objective and bilevel algorithms for training models and agents that
-          balance several goals, such as helpfulness, safety, and accuracy, with
-          applications to LLM alignment, multi-task learning, and learning to
+          Multi-objective and bilevel algorithms for training models and agents
+          that balance competing goals such as helpfulness, safety, and accuracy,
+          with applications to LLM alignment, multi-task learning, and learning to
           rank.
           <div class="representative-works" aria-label="Representative works">
             <a href="https://arxiv.org/abs/2010.07962">ICML ’21</a>
@@ -70,11 +70,10 @@ title: Home
       </p>
       <ul>
         <li>
-          Training neural networks through symbolic planners and solvers by
-          bilevel optimization, so that robots learn from their own experience
-          with fewer labels while respecting physical and logical constraints.
-          Applications include long-horizon robotic task planning, path planning
-          and navigation, multi-robot routing, and robot control.
+          Training neural networks through symbolic planners and solvers via
+          bilevel optimization, so robots learn from their own experience with
+          fewer labels while respecting physical and logical constraints, for task
+          planning, navigation, multi-robot routing, and control.
           <div class="representative-works" aria-label="Representative works">
             <a href="https://arxiv.org/abs/2006.10820">Automatica ’22</a>
             <a href="https://ieeexplore.ieee.org/document/10480627">TAC ’24</a>
@@ -156,7 +155,7 @@ title: Home
 
   <div class="tab-content">
     <div class="tab-pane active" id="pub-highlighted">
-      {% assign highlighted_groups = "Optimization Foundations for LLMs with Multiple Objectives|theory|fa-chart-line,Neuro-Symbolic Robot Learning|embodied-agentic|fa-robot,Continual Learning|llm|fa-brain" | split: "," %}
+      {% assign highlighted_groups = "Multi-Objective Optimization|theory|fa-chart-line,Neuro-Symbolic Robot Learning|embodied-agentic|fa-robot,Continual Learning|llm|fa-brain" | split: "," %}
       {% for group in highlighted_groups %}
         {% assign group_parts = group | split: "|" %}
         <h5 class="publication-group">
