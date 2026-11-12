@@ -1,6 +1,17 @@
 [
   {
     "code": "",
+    "details": "Jianan Nie, Peiyao Xiao, Kaiyi Ji, Peng Gao. ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2027.",
+    "highlighted": false,
+    "paper": "",
+    "recent": false,
+    "title": "Does Multi-Task Learning Work for Crystals? A Systematic Study and a Knowledge-Guided Mixture-of-Experts",
+    "year": "2027",
+    "authors": "Jianan Nie, Peiyao Xiao, Kaiyi Ji, Peng Gao.",
+    "venue": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2027."
+  },
+  {
+    "code": "",
     "details": "Lesi Chen*, Kaiyi Ji*, Jingzhao Zhang. Journal of Machine Learning Research (JMLR), 2026 (accepted with minor revisions).",
     "highlighted": true,
     "paper": "https://arxiv.org/pdf/2511.22331",
